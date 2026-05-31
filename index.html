@@ -1,2 +1,140 @@
 <!doctype html>
 <html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paspalum genebank</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f7faf7;
+        color: #1f2933;
+      }
+
+      header {
+        background: #1f6f43;
+        color: white;
+        padding: 32px 16px;
+      }
+
+      main {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 32px 16px;
+      }
+
+      .card {
+        background: white;
+        border: 1px solid #d8e2dc;
+        border-radius: 12px;
+        padding: 20px;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 760px;
+      }
+
+      th,
+      td {
+        border-bottom: 1px solid #d8e2dc;
+        padding: 12px;
+        text-align: left;
+      }
+
+      th {
+        background: #e9f5ee;
+        color: #164c2e;
+      }
+
+      .muted {
+        color: #64748b;
+      }
+
+      .download {
+        display: inline-block;
+        margin-top: 16px;
+        color: #1f6f43;
+        font-weight: 700;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <main>
+        <h1>Paspalum genebank</h1>
+        <p>Acceso público inicial a las accesiones conservadas.</p>
+      </main>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>Tabla inicial de accesiones</h2>
+
+        <p class="muted">
+          El ID es interno y no representa el número real de accesión.
+          La columna accesión queda preparada para completar códigos reales.
+        </p>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>ID interno</th>
+                <th>Accesión</th>
+                <th>Especie</th>
+                <th>Caja</th>
+                <th>Fecha de colección</th>
+                <th>Fecha de conservación</th>
+                <th>Lugar</th>
+              </tr>
+            </thead>
+
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td class="muted">Pendiente</td>
+                <td><em>Paspalum notatum</em></td>
+                <td>23</td>
+                <td>2001-01-01</td>
+                <td>2004-02-02</td>
+                <td>Esquina, Ctes</td>
+              </tr>
+
+              <tr>
+                <td>2</td>
+                <td class="muted">Pendiente</td>
+                <td><em>Paspalum notatum</em></td>
+                <td>24</td>
+                <td>1994-08-05</td>
+                <td>2003-01-02</td>
+                <td>Brasilia</td>
+              </tr>
+
+              <tr>
+                <td>3</td>
+                <td class="muted">Pendiente</td>
+                <td><em>Paspalum notatum</em></td>
+                <td>25</td>
+                <td>2002-02-01</td>
+                <td>2014-02-09</td>
+                <td>Bolivia</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <a class="download" href="data/accesiones.csv" download>
+          Descargar CSV
+        </a>
+      </section>
+    </main>
+  </body>
+</html>
