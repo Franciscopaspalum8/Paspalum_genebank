@@ -1,0 +1,993 @@
+"id","species","identification","harvest_date","preservation_date","weight_g","number_of_seeds","origin","n"
+"1","dilatatum ‘Virasoro’","2960","87-88","Ago.88",,"470","A, Corrientes, Virasoro","40"
+"2","dilatatum ‘Virasoro’","2960","87-89","Ago.89",,,"A, Corrientes, Virasoro","40"
+"3","notatum","4012","95-96","1996","3.6","2150","BR, MS, Tres Lagoas","40"
+"4","notatum","4064","94-95","1996","6.31","1880","A, Corrientes, Saladas","40"
+"5","notatum","4022","95-96","1996","3398","200","BR, MS, 30 km E de Ponta Pora","40"
+"6","notatum","4086","95-96","1996","6.29","3550","Híbrido F1 # 2, apomíctico, entre Q3664xQ3853 logrado experimentalmente","40"
+"7","notatum saurae","4084","94-95","1996","12.1","5990","A, Santa Fe, Cayasta(46 plantas)","20"
+"8","alcalinum","4155","94-95","1996","7.53","8280",,
+"9","notatum","SV 2893","94-95","1996","19.12","5590","Peru, Dep. Cajamarca, Prov. Cajabamba, El Huayo, 2100 msm","40"
+"10","notatum 6x","4131","94-95","1996","0.3","120","A, experimental.Polin.antic. 3838x3838","60"
+"11","notatum","4029","94-95","1996","15.17","4020","BR, MS, Coronel Sapucaia","40"
+"12","notatum","3845","95-96","1996","9.81","4200","A, Corrientes, 18 km N de Sauce, Paso Mula","40"
+"13","notatum","3776","94-95","1996","11.2","4290","BO, Villa Tunari, Region del Chapare","40"
+"14","notatum","3778","94-95","1996","4.26","1380","A, Corrientes, Palmar Grande","40"
+"15","notatum","3776","95-96","1996","31.57","10290","BO, Villa Tunari, Region del Chapare","40"
+"16","notatum","3778","95-96","1996","22.43","9840","A, Corrientes, Palmar Grande","40"
+"17","notatum","4086","95-96","1996","0.72",,"A, auto-4x, tratamiento c/colchicina al 4084","40"
+"18","notatum","4013","95-96","1996","2.4500000000000002","900","BR, MS, 60 km S Campo Grande","40"
+"19","notatum","4107","95-96","1996","2.54","1370","A, auto-8x, tratamiento c/colchicina de 4084","80"
+"20","notatum","4008","95-96","1996","2.61","950","BR, MS, Aparecida do Taboado","40"
+"21","notatum","B229","95-96","1996","1.07","410","BR, RS, Itaqui","40"
+"22","notatum","4012","94-95","1996","0.7","370","BR, MS, Tres Lagoas","40"
+"23","notatum","4023","95-96","1996","7.4","3800","BR, MS, 30 km E de Ponta Pora","40"
+"24","notatum","4029","95-96","1996","17.70","8500","BR, MS, Coronel Sapucaia","40"
+"25","notatum","ST 2369","94-95","1996","10.53","2790",,
+"26","dilatatum ‘Virasoro’","2960","Mar.94","1996","6.80","3170","A, Corrientes, Virasoro","40"
+"27","notatum","4107","95-96","1996","0.56000000000000005","215","A, auto-8x, tratamiento c/colchicina de 4084","80"
+"28","notatum","4107","94-95","1996","4","1530","A, auto-8x, tratamiento c/colchicina de 4084","80"
+"29","notatum","4022","94-95","1996","3.28","1385","BR, MS, 30 km E de Ponta Pora","40"
+"30","notatum","3775","94-95","1996","22.36","6840","MEX, Tamaulipas","40"
+"31","plicatula","4009","94-95","1996","5.9","1340","BR, SP, represa Ilha Solteira  (Contó Alex Zilli con Diego Hojsgaard 31/07/09, 2n = 40)","40"
+"32","palustre","B110","94-95","1996","5.96","2300",,
+"33","oteroi","4095","94-95","1996","0.77","480","BR, MT, Corumbá introducido vegetativamente a la FCA-UNNE en 1990 por CLQ. Re-introducido, también en forma vegetativa, por C.Acuña en Febrero 2016 desde la estación CPPSE de Embrapa, Sao Carlos, SP, Brasil con las identificaciones  BGP 4 y BRA-00028166-7 y como colectores originales Allem & Vieira #1332 (número que corresponde al ejemplar de herbario). Sigue existiendo en FCA-UNNE el material introducido en 1990 conservado en tierra y semillas en heladera. Herborizado en Corrientes con el número Q4095.","40"
+"34","notatum","4011","95-96","1996","1.2","640","BR, MS, Tres Lagoas","40"
+"35","notatum","4011","94-95","1996","1.73","820","BR, MS, Tres Lagoas","30"
+"36","notatum","3686","95-96","1996","1.82","1190","BR, MS, Tres Lagoas","30"
+"37","humboldtianum","SV 2640","94-95","1996","0.1","","PERU, Amazonas, Bangora a Luya","40"
+"38","procurrens","4094","95-96","1996","149,50","176220","BO, Chuquisaca, El Salvador","40"
+"39","limbatum","N 188","95-96","1996","22,30","23380",,
+"40","notatum","4085","95-96","1996","12,38","2490","MURIO",
+"41","notatum","4186","95-96","1996","1,68","795","Híbrido F1 # 2, apomíctico, entre Q3664xQ3853 logrado experimentalmente","40"
+"42","notatum","4064","96","96",,,"A, Corrientes, Saladas","40"
+"43","notatum","3775","95-96","1996","6,57","4410","MEX, Tamaulipas","40"
+"44","mandiocanum","V 12010","94-95","1996","48.09","28050","BR, SC, Alfredo Wagner","50"
+"45","notatum","SV 2893","95-96","1996","20,26","7400","Peru, Dep. Cajamarca, Prov. Cajabamba, El Huayo, 2100 msm","40"
+"46","","4153","Mar.96","1996","0.82","855","Peru, Dep. Cajamarca, Prov. Cajabamba, El Huayo, 2100 msm","40"
+"47","malacophyllum","TK 2449","94-95","1996","0,29","610","BO, Santa Cruz, Provincia Ñuflo de Chávez, 2 km N de Concepción, Estancia El Recreo, 16º12’S, 62º08’W","30"
+"48","notatum","3686","Ene.96","1996","4,10","2335","A, Corrientes, 18 km N de Sauce, Paso Mula","30"
+"49","Eliminado por pérdida de semillas marzo de 2013","","","","","","A, Corrientes, 18 km N de Sauce, Paso Mula","30"
+"50","notatum","3664 x 3853 F1 44","95-96","1996","6,67","2810",,
+"51","notatum","ST 2369","95-96","1996","9,05","9,05",,
+"52","procurrens","4094","96","96",,,"BO, Chuquisaca, El Salvador","40"
+"53","atratum","N 164","1996","1996","8.9600000000000009","5809",,
+"54","atratum","N 153","1996","1996","31.9","14822",,
+"55","notatum","3686","Feb.96","1996","0.57999999999999996","307","A, Corrientes, 18 km N de Sauce, Paso Mula","30"
+"56","palustre","B110","Mar.97","1997","55,63","19710",,
+"57","notatum","N-160","35490","1997",,"100",,
+"58","conjugatum","N-185","35643","1997","1,45","2510",,
+"59","lenticulare","N-188","35490","1997","6,58","4820",,
+"60","notatum","IB 229","35490","1997","18,40","5400",,
+"61","notatum","ST 2369","35490","1997","22,41","5635",,
+"62","notatum","2893","35490","1997","43,44","12600",,
+"63","cromyorrhizon","3635","Ene.97","1997","14,96","10020",,
+"64","notatum","3686","35490","1997","6,80","740","A, Corrientes, 18 km N de Sauce, Paso Mula","30"
+"65","notatum","3775","35490","1997","33,73","9565","MEX, Tamaulipas","40"
+"66","notatum","3776","35490","1997","34,12","9870","BO, Villa Tunari, Region del Chapare","40"
+"67","notatum","3778","35490","1997","44,26","12700","A, Corrientes, Palmar Grande","40"
+"68","notatum","3845","35490","1997","20,16","5870","A, Corrientes, 18 km N de Sauce, Paso Mula","40"
+"69","notatum","4008","35490","1997","24,76","7170","BR, MS, Aparecida do Taboado","40"
+"70","notatum","4010","35490","1997","6,56","1650","BR, MS, Tres Lagoas. Dos gramos se semillas conservadas desde diciembre 2017 en heladera","40"
+"71","notatum","4011","35490","1997","7,79","3270","BR, MS, Tres Lagoas","40"
+"72","notatum","4012","35490","1997","13,10","6160","BR, MS, Tres Lagoas","40"
+"73","notatum","4013","35490","1997","23,29","56000","BR, MS, 60 km S Campo Grande","40"
+"74","notatum","4016","35490","1997","2,33","670","BR, MS, 18 km S de Dourados","40"
+"75","notatum","4022","35490","1997","2,42","700","BR, MS, 30 km E de Ponta Pora","40"
+"76","notatum","4023","35490","1997","49591","2086","BR, MS, 30 km E de Ponta Pora","40"
+"77","notatum","4029","35490","1997","905452","26398","BR, MS, Coronel Sapucaia","40"
+"78","notatum","4064","35490","1997","179033","4468","A, Corrientes, Saladas","40"
+"79","dilatatum ‘Chirú’","4081","35490","1997","41774","2072","UR, Paysandú, Molles Grande","60"
+"80","notatum","4085","35490","1997","15960","419","A, auto-4x, tratamiento c/colchicina al 4084","40"
+"81","notatum","4086","35490","1997","143486","4792","A, auto-4x, tratamiento c/colchicina al 4084","40"
+"82","dilatatum ‘Torres’","4091","35490","1997","1349","926",,
+"83","notatum","4107","35490","1997","183431","4943","A, auto-8x, tratamiento c/colchicina de 4084","80"
+"84","notatum","4131","35490","1997","442677","12279","A, experimental.Polin.antic. 3838x3838","60"
+"85","acuminatum","4164","35247","1997","0,9993","551","A, Corrientes, Itá Ibaté","40"
+"86","notatum","4175","35490","1997","63468","3828","A, Santa Fe, Dep.San Justo, 15 km W La Criolla","20"
+"87","notatum","4181","35490","1997","6396","1810",,
+"88","dasypleurum","V-12112","35462","1997","0,6214","567",,
+"89","chaseanum","ST-13894","35521","1997",,"145 cariopses de autefecundación",,
+"90","chaseanum","ST-13894","35521","1997",,,,
+"91","dilatatum ""flavescens""","3952","32478","32590",,,"UR, Montevideo","40"
+"92","kempfii","TK-2272","2000/2001","2001","4.29",,,
+"93","dilatatum x urvillei retrocruza","DxU1 Ru13","87-88","1988","6.13",,,
+"94","dilatatum x urvillei retrocruza","DxU1 Ru19","87-88","1988","15.3",,,
+"95","dilatatum x urvillei retrocruza","DxU1 Ru21","87-88","1988","2.7",,,
+"96","dilatatum x urvillei retrocruza","DxU1 Ru34","87-88","1988","14.1",,,
+"97","dilatatum x urvillei retrocruza","DxU1 Ru75","87-88","1988","5.5",,,
+"98","dilatatum x urvillei retrocruza","DxU1 Ru84","87-88","1988","2.8",,,
+"99","dilatatum x urvillei retrocruza","DxU1 Ru119","87-88","1988","13.4",,,
+"100","dilatatum x urvillei retrocruza","DxU1 Ru153","87-88","1988","20.3",,,
+"101","dilatatum x urvillei retrocruza","DxU1 Ru154","87-88","1988","12.7",,,
+"102","durifolium","3884","1987","1988",,,"A,Corrientes, 19 km ESE de Santa Rosa","40"
+"103","durifolium","3885","1987","1988",,,"A, Corrientes, 13 km ESE de Santa Rosa","40"
+"104","durifolium","3886","1987","1988",,,"A, Corrientes, 6 km NE de San Miguel","40"
+"105","durifolium","3887","1987","1988",,,"A, Corrientes, 16 km de ESE de San Miguel","40"
+"106","durifolium","3888","1987","1988",,,"A, Corrientes, 8 km NE de San Miguel","40"
+"107","durifolium","3890","1987","1988",,,"A, Corrientes, 5 km SW de Loreto","40"
+"108","durifolium","3897","1987","1988",,,"A, Corrientes, 16 km SE de Caá Catí","40"
+"109","durifolium","3947","1987","1988",,,"A, Corrientes, Ituzaingó","40"
+"110","dilatatum ‘Virasoro’","V 9749","1988","1989",,,,
+"111","dilatatum ssp.flavescens","3952","1988","1989",,,"UR, Montevideo","40"
+"112","dilatatum x urvillei retrocruza","Pta.n 5","88-89","1989","20.382999999999999","18238",,
+"113","dilatatum x urvillei retrocruza","Pta.n 7","88-89","1989","16.11","17213",,
+"114","dilatatum x urvillei retrocruza","Pta.n 6","88-89","1989","5.5490000000000004","1123",,
+"115","dilatatum x urvillei retrocruza","Pta.n 10","88-89","1989","5.75","1337",,
+"116","dilatatum x urvillei retrocruza","Pta.n 18","88-89","1989","7.9320000000000004","610",,
+"117","dilatatum x urvillei retrocruza","Pta. n 75","88-89","1989","26.445","20685",,
+"118","dilatatum x urvillei retrocruza","Pta. n 170","88-89","1989","21.452000000000002","18209",,
+"119","híbrido","DxU33 F2 n18","88-89","1989","9.5630000000000006","4923",,
+"120","lividum aff.","Sch.25921","1989","1989",,,,
+"121","notatum","4117","1988","1988","28.7",,"BR, RS, localidad desconocida","40"
+"122","notatum","3775",,"1989","12.936","1906","MEX, Tamaulipas","40"
+"123","notatum","4022",,"1989","4.29","826","BR, MS, 30 km E de Ponta Pora","40"
+"124","notatum","4016",,"1989","4.7240000000000002","600","BR, MS, 18 km S de Dourados",
+"125","notatum","4010",,"1989","4.5659999999999998","237","BR, MS, Tres Lagoas. Dos gramos se semillas conservadas desde diciembre 2017 en heladera","40"
+"126","notatum","3845",,"1989","11.266","3073","A, Corrientes, 18 km N de Sauce, Paso Mula","40"
+"127","notatum","3776",,"1989","63.825499999999998","17259","BO, Villa Tunari, Region del Chapare","40"
+"128","notatum","4008",,"1989","7.4160000000000004","424","BR, MS, Aparecida do Taboado","40"
+"129","notatum","SV 2893",,"1989","31.5915","8306","Peru, Dep. Cajamarca, Prov. Cajabamba, El Huayo, 2100 msm","40"
+"130","notatum","4013",,"1989","19.603000000000002","2579","BR, MS, 60 km S Campo Grande","40"
+"131","notatum","4012",,"1989","7.2720000000000002","2404","BR, MS, Tres Lagoas","40"
+"132","notatum","3778",,"1989","0.84","91","A, Corrientes, Palmar Grande","40"
+"133","notatum","4023",,"1989","5.1219999999999999","1173","BR, MS, 30 km E de Ponta Pora","40"
+"134","notatum","4011",,"1989","6.93","550","BR, MS, Tres Lagoas","40"
+"135","notatum","4029",,"1989","10.595499999999999","2207","BR, MS, Coronel Sapucaia","40"
+"136","cromyorrhizon","Sch.21675","1988","1989",,,,
+"137","guenoarum","TK 2390","May.-94","Sep.94","24,93","7404","BO, Santa Cruz, Concepción","40"
+"138","guenoarum","TK 2394","May.-94","Sep.94","12,36","1950","BO, Santa Cruz,...","40"
+"139","lenticulare","TK 2396","May.-94","Sep.94","24,56","11905","BO, Santa Cruz, Concepción","40"
+"140","lenticulare","TK 2417","May.-94","Sep.94","24,87","8754","BO, Santa Cruz, Concepción","40"
+"141","lenticulare","4047","May.-94","Sep.94","33,11","19535","BR, GO, 39 km SW de Gaçu","40"
+"142","limbatum","K 2453",,"1991",,,,
+"143","notatum","4008",,"Sep.94","34542","1244","BR, MS, Aparecida do Taboado","40"
+"144","notatum","4010",,"Sep.94","11226","370","BR, MS, Tres Lagoas. Dos gramos se semillas conservadas desde diciembre 2017 en heladera","40"
+"145","notatum","3778",,"Sep.94","139966","3745","A, Corrientes, Palmar Grande","40"
+"146","alcalinum","4155",,"Sep.94","7,41","5755",,
+"147","notatum","4117",,"Sep.94","26,40","8136","BR, RS, localidad desconocida","40"
+"148","procurrens 2n= 20","4060","1993","Abr.93","8,9","18555","A, Salta, 10 km S de J.V.Gonzalez","20"
+"149","procurrens 2n= 40","4094",,"Sep.94","24,58",,"BO, Chuquisaca, El Salvador","40"
+"150","simplex","4114",,"Sep.94","5,02",,"A, Corrientes, campus UNNE en Av.Libertad","40"
+"151","simplex","4116",,"Sep.94","5,52",,,
+"152","simplex","4109",,"Sep.94","17,42",,,
+"153","urvillei","V 12004",,"1991",,,,
+"154","urvillei","V 12017",,"1991",,,,
+"155","urvillei","V 12028",,"1991",,,,
+"156","urvillei","V 12048",,"1991",,,,
+"157","urvillei","V-12048","98","36251","5,15",,,
+"158","lenticulare 2n= 60 cromosomas","U54","37377","37377","4.3","2718",,
+"159","plicatulum ""intumescens""","4087","2000/2001","2001","14.22",,,
+"160","densum","3902","2000","2001","22.2",,,
+"161","compressifolium","AK-40758","36100","36251","3,94",,,
+"162","alcalinum","4155","99","36220","3,87",,,
+"163","dilatatum ‘torres’","4091","98","36220","8,81",,,
+"164","cromyorrhizon","4039",,"Sep.94","4,45","1220",,
+"165","atratum","4096","1994","Sep.94","24,47","9201",,
+"166","dilatatum ‘virasoro’","V-9749","98","36220","15,7",,,
+"167","atratum","BAA 22950","99","Ago.99","489712","15670",,
+"168","conspersum","U-40/BRA-7480-B","99","Ago.99","35129","2600",,
+"169","lenticulare","U-41/BRA-009652","99","Ago.99","20867","1387",,
+"170","atratum","U-39/BRA-39143","99","Ago.99","28341","906",,
+"171","atratum","U-42/BRA-9661","99","Ago.99","118201","3782",,
+"172","atratum","U-44/BRA-10537","99","Ago.99","74391",,,
+"173","lenticulare","U-43 /BRA-009687","99","Ago.99","43819","2914",,
+"174","atratum","Hi-GANE","99","Ago.99","74677","2389",,
+"175","atratum","SUERTE","99","Ago.99","41904","1340","USA, recibido de Ann Blount, Univeristy of Florida, North Florida Research and Education Center,Marianna FL, el 15/08/2002","40"
+"176","atratum","BAA-22948","99","Ago.99","199907","6397",,
+"177","simplex","4109","99","Ago.99",,,,
+"178","simplex","4109","Mar.-99","Ago.99",,,,
+"179","lenticulare 2n= 40 cromosomas, ant. amar.","U57","37377","37377","20.6","11111",,
+"180","cromyorrhizon 2x","3635","Nov.99","Dic.99","4,88",,,
+"181","cromyorrhizon 4x","4039","Nov.99","Dic.99","2,05",,,
+"182","rufum 4x colch. (c2)","4208","Nov.99","Dic.99","0,72",,,
+"183","simplex","4124","Nov.99","Dic.99","8,31",,,
+"184","simplex","4126","Nov.99","Dic.99","5,14",,,
+"185","quadrifarium 4x","3763","Nov.99","Dic.99","0.54","1080",,
+"186","simplex","4121","Nov.99","Dic.99","3,73",,,
+"187","arundinellum aff.","4154","Nov.99","Dic.99","3,79",,,
+"188","notatum saurae","4176","Nov.99","Dic.99","29,25",,,
+"189","guenoarum “rojas”",,"Febr.99","Dic.99","64,05",,,
+"190","simplex 2x ciclo C2:semilla cosecha de la pob. de 1000 plantas en el campus unne","4109","36220","Dic.99","29,38","----",,
+"191","eriathum","TK 1194","Nov.99","Dic.99","1,67",,,
+"192","equitans","3683","Nov.99","Dic.99","0,80",,,
+"193","ovale","4083","Nov.99","Dic.99","6,57",,,
+"194","ovale","BLB 219","Nov.99","Dic.99","10,5",,,
+"195","kempfii","Tk 2272","verano 2000","2000",,,,
+"196","rojasii","AK   40732","verano 2000","2000",,,,
+"197","simplex","4121","verano 2000","2000",,,,
+"198","malacophyllum","4112","verano 2000","2000",,,,
+"199","simplex","4124","verano 2000","2000",,,,
+"200","unispicatum","4211","verano 2000","2000",,,,
+"201","plicatulum“intumescens”","4087","verano 2000","2000",,,,
+"202","macedoi","K-2323","verano 2000","2000",,,,
+"203","usterii (malacophyllum?)","3720","verano 2000","2000",,,"A, Misiones, arroyo Yabebirí, Ruta nº 12 entre San Ignacio y Santa Ana","40"
+"204","dilatatum ssp flavescens","4209","Verano 2000","2000",,,"FRANCIA, Montpellier, anteras amarillas",
+"205","urvillei","4111","Verano 2000","2000",,,"A, San Luis, Santa Elena","40"
+"206","chaseanum","AK-45457","verano 2000","2000",,,,
+"207","chaseanum","AK 45457 x F3372","verano 2000","2000",,,,
+"208","urvillei","4226","Verano 2000","2000",,,"BR, RS, Restinga Seca",
+"209","malacophyllum","N 263","verano 2000","2000",,,,
+"210","dilatatum 5x","Honfi 163","Verano 2000","2000",,,,
+"211","chaseanum","ST  13894","verano 2000","2000",,,,
+"212","unispicatum 3x","4211","verano 2000","2000",,,,
+"213","ionathum","V-4294","verano 2000",,,,,
+"214","compressifolium","V11081","99/00","36647","1.5116000000000001","945",,
+"215","ovale","4083","Verano 00/01","36982","1.1000000000000001",,,
+"216","ovale","BLB 219","Verano 00/01","36982","0.15",,,
+"217","dilatatum ssp.flavescens","4209","99","36220","24,45",,"FRANCIA, Montpellier, anteras amarillas",
+"218","ionanthum","V 4282","Verano 00/01","36982","2.7",,"BR, RS, Bagé","80"
+"219","ionanthum","V 4294","Verano 00/01","36982","4.2",,"BR, RS, Bagé","80"
+"220","dilatatum cv chirú","BR 2479","Verano 00/01","36982","5.7",,"UR, Paysandú, Molles Grande","60"
+"221","dilatatum cv chiru","4081","Verano 00/01","36982","10.96","5436","UR, Paysandú, Molles Grande","60"
+"222","durifolium","4056","Verano 00/01","36982","0.09",,"A, Corrientes, 17 km S de Santo Tome",
+"223","compressifolium","AK 40811","Verano 00/01","36982","0.86",,"BR, PR, Vila Velha","40"
+"224","compressifolium","AK 40758","Verano 00/01","36982","3.1",,,
+"225","simplex","4124","Verano 00/01","36982","10.96",,,
+"226","urvillei","4111","Verano 00/01","36982","6.38",,"A, San Luis, Santa Elena","40"
+"227","plicatulum","4087","Verano 00/01","36982","14.22",,,
+"228","simplex","4121","Verano 00/01","36982","6.25",,,
+"229","ionanthum","3726","Verano 00/01","36982","0.51","200","A, Corrientes, Chavarría. (Anteras amarillas)","40"
+"230","ionanthum","3777","Verano 00/01","36982","0.52",,"A, Corrientes, Caá Catí ""B""","40"
+"231","simplex","4126","Verano 00/01","36982","5.62",,,
+"232","durifolium",,"36465","2000","0.26",,,
+"233","rufum","3785","Verano 00/01","36982","6.1",,"A, Corrientes, 39 km N de Paso de los Libres","40"
+"234","dedeccae","3807","Verano 00/01","36982","0.22800000000000001",,"A, Corrientes, 10 km N de Garruchos","40"
+"235","procurrens 2n= 20","4060","36923","37043","0.35","730","A, Salta, 10 km S de J.V.Gonzalez","20"
+"236","simplex","U 45","01 y 02 / 01","37043","0.115",,"A, Chaco, , planta 3x en la población U 29","30"
+"237","densum","3902","36923","37043","0.214",,,
+"238","notatum",,"37104","Setiembre 2001",,"102",,
+"239","simplex","U 53","36951","37043","0.183",,,
+"240","notatum","U 47","Verano 00/01","36982","39.5",,,
+"241","notatum","U 48","Verano 00/01","36982","25.7",,,
+"242","notatum","U 46","Verano 00/01","36982",,,,
+"243","notatum","4267","Verano 00/01","36982",,,"BR, RS, 27 km W de Cristalda",
+"244","plicatulum","4087","Verano 00/01","36982",,,,
+"245","cromyorrhizon","3635","Verano 00/01","36982","0.8",,,
+"246","unispicatum 3 x","4211","Nov. 2001","Dic. 2001","5.66","3040",,
+"247","hydrophilum 3x",,"36281","36312","1,75",,,
+"248","indecorum","4207","36100","36251","1,63",,"A, Misiones, Campo Zaiman, (Contó Alex Zilli con Diego Hojsgaard 21/08/09, 2n = 20)","20"
+"249","lenticulare","TK1622","37257","37257","0.37","552",,
+"250","simplex 4x (F1 de u45x2x)","U61","37288","37316","2.15","4015",,
+"251","malacophylum","N-279b",,"36220","2,68",,,
+"252","malacophylum","N-263",,"36220","1,79",,,
+"253","simplex  pob. orig.","4109","35462","35462",,,,
+"254","simplex 2x C1: polycross 10 selectas","4109","35462","35462",,,,
+"255","simplex 2x C2: polycross 10 selectas","4109","35855","35916",,,,
+"256","simplex 2x C3: polycross 10 selectas (ojo: hay aparte 10 sobres con semilla de c/u de las 10 selectas policruzadas en la caja 6)","4109","36951","37104","2.95","4000",,
+"257","plicatulum var intumescens","4087",,"36251","9,39",,,
+"258","simplex","U58","37288","37316","0.42799999999999999","800",,
+"259","simplex 3x","U45","37257","37316","3.8399999999999997E-2","78",,
+"260","alcalinum 5x","4123","Verano 2001","37316","3.82","3349","A, Santa Fe, 16 km S de Alejandra","50"
+"261","unispicatum","U59","37288","37316","0.73","1810",,
+"262","conspersum","V10121","37288","37316","2.94","2275",,
+"263","procurrens 2n= 40","4094","36983","37073","2.64","7680","BO, Chuquisaca, El Salvador","40"
+"264","lenticulare","N 188","36981","37073","1.1299999999999999","1590",,
+"265","notatum ""Claudina""","4205","44937","37073","0.8","203",,
+"266","hydrophilum","3984","37041","37073","4.0999999999999996","2674",,
+"267","denticulatum","4263","36965","37073","0.9","881","A, Chaco, J.J. Castelli, acceso al pueblo; 25º56’25’’ S  60º36’17’’W colectado el 15-03-2001",
+"268","dilatatum ""común""","*En un solo frasco",,"37104",,"88",,
+"269","dilatatum ""flavescens""","Ma. V. García SV 6",,"37104",,"90",,
+"270","dilatatum""común""","Ma. V. García Mag 112",,"37104",,"90",,
+"271","dilatatum ""flavescens""","Ma. V. García Mag 103",,"37104",,"90",,
+"272","dilatatum""común""","Ma. V. García M 21",,"37104",,"90",,
+"273","dilatatum ""flavescens""","Ma. V. García M 15",,"37104",,"90",,
+"274","dilatatum""común""","Ma. V. García R 11",,"37104",,"90",,
+"275","dilatatum ""flavescens""","Ma. V. García R 6",,"37104",,"88",,
+"276","dilatatum ""flavescens""","Ma. V. García B 15",,"37104",,"90",,
+"277","dilatatum""común""","Ma. V. García PI 56",,"37104",,"90",,
+"278","dilatatum""común""","Ma. V. García BR 14",,"37104",,"85",,
+"279","notatum","3664 x 3853","Verano2001","37104","13.39","4776",,
+"280","notatum","3664 x 3853","Verano2001","37104","3.145","1108",,
+"281","notatum","3664 x 4117","Verano2001","37104","11.14","3374",,
+"282","notatum","3664 x 4117","Verano2001","37104","12.03","3644",,
+"283","notatum","3664 x 4117","Verano2001","37104","13.83","4189",,
+"284","notatum","3664 x 4117","Verano2001","37104","11.9","3604",,
+"285","notatum","3664 x 4117","Verano2001","37104","12.71","3850",,
+"286","notatum","3664 x 4117","Verano2001","37104","10.86","3289",,
+"287","notatum","3664 x 4117","Verano2001","37104","12","3635",,
+"288","notatum","3664 x 4117","Verano2001","37104","12.17","3686",,
+"289","notatum","3664 x 4117","Verano2001","37104","14","4240",,
+"290","notatum","3664 x 4117","Verano2001","37104","13.12","3974",,
+"291","notatum","3664 x 4117","Verano2001","37104","13.65","4134",,
+"292","notatum","3664 x 4117","Verano2001","37104","13.78","4174",,
+"293","notatum","3664 x 4117","Verano2001","37104","13.58","4113",,
+"294","notatum",,"verano2001","37104","14.7","5423",,
+"295","simplex","U-8","Verano 1998","Primavera 1998",,"S/D","A, Chaco,ruta nac. 16; 14 Km. W de Makallé,","40"
+"296","simplex","U-9","Verano 1998","Primavera 1999",,"S/D","A, Chaco, ruta nac. 16; 4 Km. W de Quitilipi,","40"
+"297","simplex","U-14","Verano 1998","Primavera 1999",,"""","A, Chaco, Avia Terai, cruce de rutas 16 y 94","20"
+"298","simplex","U-17","Verano 1998","Primavera 1999",,"""","A, Chaco, ruta prov. 94, 10 Km. SW de Charata","20"
+"299","simplex","U-18","Verano 1998","Primavera 1999",,"""","A, Sgo. del Estero, Dep. Otumpa,Cabaña Los Gatos. Colectado 'in situ' en 1998 IDEM Q 4109","20"
+"300","simplex","U-25","Verano 1998","Primavera 1999",,"""","A, Chaco, ruta interprovincial Nº 30, 24 Km. N de Gancedo","20"
+"301","simplex","U-26","Verano 1998","Primavera 1999",,"""","A, Chaco, ruta nac. 89, 7 Km. N de Gancedo","20"
+"302","simplex","U-27","Verano 1998","Primavera 1999",,"""","A, Chaco, ruta prov. Nº 5, 34 Km. N de Gral. Pinedo","20"
+"303","simplex","U-28","Verano 1998","Primavera 1999",,"""","A, Chaco,  Santa Sylvina","20"
+"304","simplex","U-29","Verano 1998","Primavera 1999",,"""","A, Chaco, 36 km N de Villa Ángela, ruta 95 población con mezcla de 2x y 4x","20 y 40"
+"305","simplex","U-30","Verano 1998","Primavera 1999",,"""","Chaco, ruta nac. Nº 16, 5 Km. W de Pres. de la Plaza","40"
+"306","simplex","U-31","Verano 1998","Primavera 1999",,"""","Santa Fe, ruta nac. Nº 11, 1 Km. S de Reconquista","40"
+"307","simplex","U-32","Verano 1998","Primavera 1999",,"""","Corrientes, Estación de rebaje línea RIEL-NEA  Paso de la Patria",
+"308","simplex","U-33","Verano 1998","Primavera 1999",,"""","Santa Fe, ruta nac. Nº 11, 3 Km. S de Calchaquí,","40"
+"309","simplex","U-34","Verano 1998","Primavera 1999",,"""","Chaco, ruta nac. Nº 11, 2 Km. N de Basaíl","40"
+"310","simplex","4146","Verano 1998","Primavera 1999",,"""","A, Corrientes, San Roque, rio Santa Lucia, ruta 12","40 y 60"
+"311","simplex","4168","Verano 1998","Primavera 1999",,"""","A, Corrientes, Río Miriñay, Paso Rosario, entre  Mercedes y Paso de los libres","40 y 60"
+"312","simplex","4189","Verano 1998","Primavera 1999",,"""","A, Formosa, 8 Km. S de Pirane","40 y 60"
+"313","simplex","4190","Verano 1998","Primavera 1999",,"""","A, Formosa, 20 Km. WNW de  Pirané","40"
+"314","simplex","4195","Verano 1998","Primavera 1999",,"""","A, Formosa,  15 Km. WNW de Palo Santo","40"
+"315","simplex","4200","Verano 1998","Primavera 1999",,"S/D","A, Formosa, 9 Km. WNW de Ibarreta","40 y 60"
+"316","simplex","U-14","Verano 1999","36220",,"""",,
+"317","simplex","U-29","Verano 1999","36220",,"""",,
+"318","simplex","4190","Verano 1999","36220",,"""","A, Formosa, 20 Km. WNW de  Pirané","40"
+"319","guenoarum","4108","37316","37316","20.8","6200","BO, Chuquisaca, L.Calvo, CIMBOC","40"
+"320","simplex 3x",,"37316","37316","0.66","1340",,
+"321","simplex 2x C4: polycross 25 selectas (ojo: hay aparte 25 sobres con semilla de c/u de las 25 selectas policruzadas en la caja 7)","4109","37316","37316","2",,,
+"322","compressifolium","AK-40758","Nov. 2001","37347","0.93","630",,
+"323","virgatum","BAA23248","37347","37347","13.54","5430",,
+"324","paniculatum","4225","36586","37347","1.69","3605",,
+"325","dilatatum ‘virasoro’","2960","37165","37347","5.88","S/D","A, Corrientes, Virasoro","40"
+"326","dilatatum","G. Seijo 1316","Nov. 2001","37347","1.19","S/D",,
+"327","commune","I.C. 139","36951","110395","3.07","2630",,
+"328","dilatatum","V14253","Verano/02","37347","3.03","S/D",,
+"329","palustre","Bordón 110","37347","37347","4","1540",,
+"330","notatum","""Argentine""","Agosto 2002 (enviado)","37500","4.9800000000000004","1698",,
+"331","notatum","""Paraguay 22""","Agosto 2002 (enviado)","37500","9.77","3184","USA, recibido de Ann Blount, Univeristy of Florida, North Florida Research and Education Center,Marianna FL, el 15/08/2002","40"
+"332","notatum","""AU Sand Mountain""","Agosto 2002 (enviado)","37500","4.01","3552",,
+"333","notatum","""Pensacola""","Agosto 2002 (enviado)","37500","1.35","735",,
+"334","notatum","""Tifton 9""","Agosto 2002 (enviado)","37500","9.4600000000000009","4897",,
+"335","atratum","""Suerte Atra Paspalum""","Agosto 2002 (enviado)","37500","1.39","576",,
+"336","notatum","3664 x 4117","37653","37681","3.99",,,
+"337","notatum","3664 x 4117","37653","37681","1.3",,,
+"338","notatum","3664 x 4117","37653","37681","3.51",,,
+"339","notatum","3664 x 4117","37653","37681","3.71",,,
+"340","notatum","3664 x 4117","37653","37681","2.19",,,
+"341","notatum","3664 x 4117","37653","37681","4.83",,,
+"342","notatum","3664 x 4117
+F1 92","37653","37681","3.66",,,
+"343","notatum","4117","37653","37681","15.53",,"BR, RS, localidad desconocida","40"
+"344","notatum","Sand Mountain","37653","37681","6.84",,,
+"345","notatum","Argentine","37653","37681","16.63",,,
+"346","notatum","Paraguay 22","37653","37681","14.99",,,
+"347","notatum","Horqueta común","37653","37681","10.119999999999999",,,
+"348","dilatatum","Ma. V. García Mag 103","verano 2003","37681","0.55000000000000004","345",,
+"349","intermedium 2x open","3749","37561","37681","2.31","3250","A, Chaco, 50 Km N de Resistencia","20"
+"350","dilatatum","Ma. V. García Mag 112",,"37681","5.32","4147",,
+"351","intermedium 2x open","3790","37561","37681","12","254","A, Corrientes, Santo Tome (eliminado de la colección en tierra el 2/9/05)","20"
+"352","laxum","proviene de 3593. Naturalizado en FCA","verano 2003","37681","0.94","506",,
+"353","dilatatum AP","Ma. V. García M 21",,"37681","0.46","229",,
+"354","dilatatum AP","Ma. V. García  SV 13",,"37681","0.2","106",,
+"355","dilatatum AP","Ma. V. García R11",,"37681","0.21","114",,
+"356","dilatatum AA","Ma. V. García SV 6",,"37681","0.56999999999999995","267",,
+"357","dilatatum AP","Ma. V. García LP 37",,"37681","16","92",,
+"358","dilatatum AA","Ma. V. García B 15",,"37681","2.0299999999999998","1176",,
+"359","dilatatun AP","Ma. V. García PI 63",,"37681","90","503",,
+"360","haumanii 2x","3729","37561","37681","1.41","1646",,
+"361","arundinellum","4154","37561","37681","0.32","327",,
+"362","intermedium 2x open","Sch. 28857","37561","37681","1.35","1898",,
+"363","simplex","Daviña 540","37622","37681","4.5999999999999999E-2","132",,
+"364","Thrasya petrosa 2n= 40","TK 1953","2001","37681","0.15","70",,
+"365","malacophyllum","4286","dic. 2002","37681","0.92","2044","AR, Tucumán, Graneros",
+"366","usterii","4288","37622","37681","2.3199999999999998","4142","A. Misiones, ruta provincial nº 3, entrada a Cerro Corá, a 1,5 km de la ruta Nac. nº 12. Tres plantas individuales por rizomas (a, b, c) y semillas cosechadas de una docena de plantas","40"
+"367","rufum  4x inducido (C1)","4082","37561","37681","4.0599999999999996","1561","A, auto-4x, por tratamiento c/colchicina al 3754","40"
+"368","arundinellum","4113","37591","37681","3.65","3318","A, Corrientes, 76 km ESE de Corrientes (eliminado de la colección en tierra 2/9/05)","50"
+"369","arundinellum","N 215","37591","37681","3.64","3640",,
+"370","arundinellum","N 161","37591","37681","2.13","2130",,
+"371","kempfii","TK 2272","37622","37681","15.63","1953",,
+"372","quadrifarium 2n= 40","3763","37742","37742","2.19",,,
+"373","notatum","4287","verano 2003","37681","0.96","309","AR, Tucumán, Graneros",
+"374","urvillei","4280","37591","37681","0.69","-","AR, Salta, La Merced",
+"375","urvillei","4283","37591","37681","0.1","-","AR, Tucuman, cuesta del indio, entre Acherai y Tafi del Valle",
+"376","urvillei","4285","37591","37681","0.83","-","AR, Tucumán, Graneros",
+"377","urvillei   (Guaruapava Brasil)","falta número","37622","37681","1.05","-",,
+"378","urvillei (Dpto Candelaria, Mnes)","falta número","37622","37681","1.17","-",,
+"379","urvillei  (Barra Velha)","falta número","37622","37681","3.4","-",,
+"380","pauciciliatum","3936","37591","37681","2.82","-","A, Corrientes,Campus Facultad de Ciencias Agrarias, parte central del parque.","40"
+"381","notatum","""Pensacola""","37681","37681","2.38","1473",,
+"382","nicorae","U-62","37622","37681","0.49","245","A, Corrientes, Escuela de Agricultura (ERAGIA)","40"
+"383","oteroi","4095","febrero - marzo 2003","37681","3.97","3308","BR, MT, Corumbá introducido vegetativamente a la FCA-UNNE en 1990 por CLQ. Re-introducido, también en forma vegetativa, por C.Acuña en Febrero 2016 desde la estación CPPSE de Embrapa, Sao Carlos, SP, Brasil con las identificaciones  BGP 4 y BRA-00028166-7 y como colectores originales Allem & Vieira #1332 (número que corresponde al ejemplar de herbario). Sigue existiendo en FCA-UNNE el material introducido en 1990 conservado en tierra y semillas en heladera. Herborizado en Corrientes con el número Q4095.","40"
+"384","oteroi","4118","febrero - marzo 2003","37681","1.33","1023","BR, MS, Corumba",
+"385","virgatum","BAA 23248","verano 2002","37681","5.09","2458",,
+"386","arundinellum","BAA 22691","verano 2003","37681","0.33","275",,
+"387","redondense 2x","Valls 11370 R","37288","37681","0.04","34",,
+"388","redondense 4x","Valls 11370 F","37288","37681","0.23","103",,
+"389","notatum","4188","marzo - abril 2003","37712","21.9","7821","Híbrido F1 # 31, sexual, entre Q3664x Q3853. Cruzamiento realizado en 1984 en FCA-UNNE. Método reproductivo determinado por M.H.Urbani mediante cortes seriados en 1988/89. En mayo 2019, para corroborar el sistema reproductivo, F.Galdeano determinó con citometría de flujo que 20 semillas producidas en polinización abierta eran de origen sexual.","40"
+"390","notatum","4205","37712","37712","0.77","275",,
+"391","conjugatum 4x","U64","abril-mayo/2003","37742","0.3","1578",,
+"392","conjugatum 6x","U65","abril-mayo/2003","37742","1.24","3263",,
+"393","cromyorrhizon 2x","3635","37681","37742","1","470",,
+"394","alcalinum 5x","4123","37712","37742","7.67","6360","A, Santa Fe, 16 km S de Alejandra","50"
+"395","notatum","4117 fe","37681","37834","3.18","940",,
+"396","notatum","4188","37681","37834","1.25","458","Híbrido F1 # 31, sexual, entre Q3664x Q3853. Cruzamiento realizado en 1984 en FCA-UNNE. Método reproductivo determinado por M.H.Urbani mediante cortes seriados en 1988/89. En mayo 2019, para corroborar el sistema reproductivo, F.Galdeano determinó con citometría de flujo que 20 semillas producidas en polinización abierta eran de origen sexual.","C"
+"397","simplex",,"37622","37834","1.1499999999999999","1840","Planta obtenida por autofecundación de la planta 11B 1a en el verano 1997/98 , autotetraploide inducido por Pupilli. La planta tiene la banda típica de las apomicticas , SCAR de 650bp","40"
+"398","alcalinum","4155","37987","38108","15.5","14999",,
+"399","notatum (común, origen: Corrientes, Capital)",,"37987","38108","15.5","5349",,
+"400","unispicatum 3x","4211","38078","38108","18.579999999999998","9335",,
+"401","simplex","D&H 540","38078","38108","1.1599999999999999","2464",,
+"402","denticulatum","U69","37987","38108","2.5299999999999998","2057","A, Santa Fe, Departamento General Obligado, 12 km sur de Florencia, borde de Ruta Nac. 11, km 901. Colección (12-01-2004) y recuento cromosómico de M.H.Urbani. Observción de colecta: sin Claviceps.¿Tiene ejemplar de herbario?","40"
+"403","denticulatum","U67","37987","38108","0.87","770","A, Santa Fe, Departamento General Obligado, 3 km sur de El Rabón, borde de Ruta Nac. 11, km 901. Colección (22-12-2003) y recuento cromosómico de M.H.Urbani. Observción de colecta: sin Claviceps.¿Tiene ejemplar de herbario?","40"
+"404","simplex","D&H 541","38078","38108","0.24","545",,
+"405","arundinellum 4x","D&H 479","38018","38169",,"335",,
+"406","volcanensis (Androestéril)","Morrone 4374","38047","38169",,"627","A. Jujuy. Tumbaya: Volcán, a 4 km de Volcán camino a Termas de Reyes, cantera sobre el Río Grande, 25-04-2003, O. Morrone, M. Múlgura & S. Denham 4374 (SI).","40"
+"407","notatum ""Claudina""","4205","38047","38169",,"119",,
+"408","cromyorrhizon","3635","primavera 2003","38169",,"435",,
+"409","malacophyllum","4005","38139","38169",,"S/D","BR, GO, Itumbiara a Bom Jesus de Goias.","40"
+"410","almum","4165","2003/04","38169",,"310","A, Corrientes, Itá Ibaté","24"
+"411","compressifolium","Valls 11081","verano 2004","38169",,"110",,
+"412 (g)","malacophyllum","4112","38018","38169",,"¿?",,
+"412 (h)","malacophyllum","TK 2449","38108","38169",,"± 800","BO, Santa Cruz, Provincia Ñuflo de Chávez, 2 km N de Concepción, Estancia El Recreo, 16º12’S, 62º08’W",
+"412 (i)","procurrens","4094","38108","38169",,"± 2100","BO, Chuquisaca, El Salvador","40"
+"412 (d)","usterii","4288 (a)","37987","38169",,"1670",,
+"412 (e)","usterii","4288 (b)","37987","38169",,"¿?",,
+"412 (f)","usterii","4288 (c)","37956","38169",,"¿?",,
+"412 (c)","volcanensis  (androestéril)","OM4374","38078","38169",,"± 580",,
+"412 (a)","volcanensis (androestéril)","OM4374","38018","38169",,"± 150",,
+"412 (b)","volcanensis (androestéril)","OM4374","38078","38169",,"± 1350",,
+"413 a","dedeccae 4x","3807","37895","38169",,"37","A, Corrientes, 10 km N de Garruchos","40"
+"413 b","durifolium","Valls 12282","37956","38169",,"265",,
+"414","regnelli","Honfi 130","2003","38169","1.56","2470","A, Misiones, Dpto. Eldorado, Salto Küppers",
+"415","lenticulare","G. López 347","37956","38169","2.97","3688",,
+"416","minus 2n= 50","Valls 14573","38018","38169","2.23","1897","BR, Mato Grosso do Sul, (planta individual introducida por rizoma, junio 2003)","50"
+"417","malacophyllum","4112","38018","38169","2.74","5368",,
+"418","unispicatum 2x","U15","38018","38200","4.09","2800",,
+"419","notatum","V14327","38018","38200","4.53","2398",,
+"420","notatum","V14865","38018","38200","1.55","872",,
+"421","notatum","4282","38018","38200","3.5","1277","AR, Tucuman, cuesta del indio, entre Acherai y Tafi del Valle",
+"422","notatum","U66","38078","38200","4.33","1430",,
+"423","notatum","4270","38018","38200","1.1100000000000001","362",,
+"424","alcalinum","U78","Diciemb. 2004","38384","1.85","1437",,
+"425","notatum HC (ERAGIA) Usado como testigo (Pasantía Heil)",,"38018","38384","5",,,
+"426","notatum Q3686 x Tifton 9 F1 Nº 1 (4x)",,"38018","38384","0.46",,,
+"427","notatum Q3686 x Tifton 9 F1 Nº 2 (4x)",,"38018","38384","0.44",,,
+"428","notatum Q3686 x Tifton 9 F1 Nº 3 (4x)",,"38018","38384","1.1399999999999999",,,
+"429","notatum Q3686 x Tifton 9 F1 Nº 4 (4x)",,"38018","38384","0.6",,,
+"430","notatum Q3686 x Tifton 9 F1 Nº 5 (4x)",,"38018","38384","0.48",,,
+"431","notatum Q3686 x Tifton 9 F1 Nº 6 (4x)",,"38018","38384","0.93",,,
+"432","notatum Q3686 x Tifton 9 F1 Nº 7 (4x)",,"38018","38384","0.61",,,
+"433","notatum Q3686 x Tifton 9 F1 Nº 8 (4x)",,"38018","38384","0.14000000000000001",,,
+"434","notatum Q3686 x Tifton 9 F1 Nº 9 (4x)",,"38018","38384","0.84",,,
+"435","notatum Q3686 x Tifton 9 F1 Nº 10 (4x)",,"38018","38384","0.81",,,
+"436","notatum Q3686 x Tifton 9 F1 Nº 11 (4x)",,"38018","38384","0.51",,,
+"437","notatum Q3686 x Tifton 9 F1 Nº 12 (4x)",,"38018","38384","0.48",,,
+"438","notatum Q3686 x Tifton 9 F1 Nº 13 (4x)",,"38018","38384","2.08",,,
+"439","notatum Q3686 x Tifton 9 F1 Nº 14 (4x)",,"38018","38384","0.75",,,
+"440","notatum Q3686 x Tifton 9 F1 Nº 15 (4x)",,"38018","38384","0.35",,,
+"441","notatum Q3686 x Tifton 9 F1 Nº 16 (4x)",,"38018","38384","0.78",,,
+"442","notatum Q3686 x Tifton 9 F1 Nº 17 (4x)",,"38018","38384","0.6",,,
+"443","notatum Q3686 x Tifton 9 F1 Nº 18 (4x)",,"38018","38384","0.82",,,
+"444","notatum Q3686 x Tifton 9 F1 Nº 19 (4x)",,"38018","38384","1.1399999999999999",,,
+"445","notatum Q3686 x Tifton 9 F1 Nº 20 (4x)",,"38018","38384","0.62",,,
+"446","notatum Q3686 x Tifton 9 F1 Nº 22 (4x)",,"38018","38384","1.67",,,
+"447","notatum","U68","38384","38412","1.54","554",,
+"448","notatum","U70","38384","38412","4.3600000000000003","1527",,
+"449","conjugatum","Hojs353","38749","38808","9.6000000000000002E-2","275",,
+"450","procurrens","Hojs373","38777","38808","1.7","3260",,
+"451","malacophyllum","Hojs372","38777","38808","2.89","7840",,
+"452","remotum","Hojs379","38777","38808",,"258",,
+"453","malacophyllum","Hojs374","38777","38808","0.72699999999999998","1970",,
+"454","malacophyllum","Hojs367","38777","38808","0.19400000000000001","526",,
+"455","malacophyllum","Hojs380","38777","38808","0.90800000000000003","2460",,
+"456","malacophyllum","Hojs363","38777","38808","0.42699999999999999","1156",,
+"457","procurrens","Hojs376","38777","38808","0.51700000000000002","991",,
+"458","lividum","Hojs365","38777","38808","0.192","248",,
+"459","notatum","U80","38808","38808","6.5621999999999998","2684",,
+"460","Guadua chacoensis","4291","Nov. 2004","38930",,"39",,
+"461","arundinellum (4x)","D&H 479","2006","38930",,"65",,
+"462","Quadrifarium (2x)","3810","Dic. 2005","38930",,"75","A, Corrientes, Curuzú Cuatiá","20"
+"463","notatum","4012","38718","Sept. 2006","9.26","4352","BR, MS, Tres Lagoas","40"
+"464","notatum","4023","38718","Sept. 2006","8.3000000000000007","3400","BR, MS, 30 km E de Ponta Pora","40"
+"465","alcalinum","U81","39083","39083","0.81",,,
+"466","alcalinum","U82","39083","39083","0.89",,,
+"467","denticulatum","U83","39083","39083",,"5 cariopses",,
+"468","simplex","U85","39083","39083","0.44",,,
+"469","Conduplicatum","V14859","Dic. 2006","39142","0.46","859",,
+"470","Cromyorrhizon","3635","Nov. 2006","39142","1.34","550",,
+"471","Dilatatum","4284","Nov. 2006","39142","0.753","400","AR, Tucuman, cuesta del indio, entre Acherai y Tafi del Valle",
+"472","Indecorum","4207","Dic. 2006","39142","0.15659999999999999","300","A, Misiones, Campo Zaiman, (Contó Alex Zilli con Diego Hojsgaard 21/08/09, 2n = 20)","20"
+"473","Conjugatum","Hojs353","Verano 06707","39142","0.25409999999999999","500",,
+"474","urvillei","4285","Nov. 2006","39142","5.0999999999999996","6900","AR, Tucumán, Graneros",
+"475","notatum","U86","38808","39203","6,4","1735",,
+"476","malacophyllum","U87","38808","39203","1.0620000000000001","2737",,
+"477","notatum","4294","38808","39203",,"187","A, Còrdoba, 11 km oeste de Santa Rosa de Calamuchita, Los Algarrobos, una planta.  Podría tener cierta resistencia a frío. Febrero 2006 (Herborizado en FCA-UNNE el 16/01/07",
+"478","rufum","3754(2x) X 3785(4x)","39022","39203",,"60",,
+"479","rufum","3754(2x) X 4185 (4x)","39022","39203",,"1900",,
+"480","rufum x urvillei (rufum autopolinizado)","3754(2x) X urvillei","39022","39203",,"450",,
+"481","arundinellum","D&H 479","39203","39264",,"164",,
+"482","Redondense 2n=4x=40","V11370F","38777","39264",,"260",,
+"483","Malacophyllum 2n=4x=40","V5095","39203","39295","3.44","5600",,
+"484","Malacophyllum 2n=4x=40","K2449","39203","39295","2.8","4340",,
+"485","notatum","4294","39052","39052","1.1000000000000001","400","A, Còrdoba, 11 km oeste de Santa Rosa de Calamuchita, Los Algarrobos, una planta.  Podría tener cierta resistencia a frío. Febrero 2006 (Herborizado en FCA-UNNE el 16/01/07",
+"486","dilatatum aff.","V8009","39356","39387","2.4","-1500",,
+"487","dilatatum ""flavescens""","3952","Enero– Feb. 2008","39479","7.76","4000","UR, Montevideo","40"
+"488","plicatulum","Hojs 388","39448","39479","2.63","1300",,
+"489","acuminatum 2n 40","Hojs 389","39479","39539","2.2799999999999998","1350",,
+"490","alcalinum 2n 50","Hojs 355","39479","39539","1.25","1180",,
+"491","alcalinum 2n 60","Hojs 354","39479","39539","0.5","400",,
+"492","remotum","Hojs 367","Enero 2008","39539","0.06","63",,
+"493","volcanensis","Hojs 370","39479","39539","0.86","1530",,
+"494","Nicorae 2n= 40","PI 508821","Marzo abril 2009","39965","1.6","890","“origin: Argentina, collected: February 13, 1979. collector: B.L. Burson. locality: Ao Sauce, Route 14, S of Gualeguaychú, Entre Rios Province, remarks: Plants bluegreen, spreading, rhizomatous. Leaves fine, 30-37cm long. Inflorescences 70cm high. Wild. Seed.” Así figura en el la base de datos del USDA en el sitio: http://sun.ars-grin.gov/npgs/pi_books/scans/196pt1/pi196pt1_252.pdf Recibido en la FCA-UNNE por M.E. Sartor enviadas por Miguel Dall’ Agnoll desde la UFRGS, Brasil.",
+"495","Nicorae 2n= 40","PI 508820","Marzo abril 2009","39965","0.31","173",,
+"496","Nicorae 2n= 40","PI 477103","Marzo abril 2009","39965","1.0900000000000001","577",,
+"497","Nicorae 2n= 40","PI 209983","Marzo abril 2009","39965","3","1485",,
+"498","Nicorae 2n= 40","PI 284171","Marzo abril 2009","39965","1.57","871",,
+"499","Plicatulum 2x","H 14","39845","40026","5","2385",,
+"500","Guenoarum (Rojas 19 = GR19)",,"39845","40057",,"710",,
+"501","Plicatulum 4x (4PT) X Guenoraum (Azulao)",,"39845","40057",,"130",,
+"502","simplex C1B2 X procurrens Hojs373#15",,"39873","40057",,"70",,
+"503","simplex C1B2 X volcanensis Hojs370#4",,"39873","40057",,"44",,
+"504","procurrens 2x Q4060 X procurrens 4x Q4094",,"39203","40057",,"5",,
+"505","malacophyllum 4x","4286","39934","40057",,"290","AR, Tucumán, Graneros",
+"506","malacophyllum 4x","Hojs380","39934","40057",,"603",,
+"507","malacophyllum 4x","Hojs363","39873","40057",,"539",,
+"508","malacophyllum 4x","Hojs364","39934","40057",,"380","A, Salta, Departamento Oran, 22º59’23’’ S 64º22’15’’",""
+"509","malacophyllum 4x","Hojs374","39934","40057",,"1053",,
+"510","malacophyllum 4x","Hojs367","39873","40057",,"141",,
+"511","simplex","11B1a","39203","40057",,"731",,
+"512","acuminatum 4x","Hojs389","Enero-Marzo 2009","40057",,"260",,
+"513","modestum 2x Hojs392 X modestum 2x Hojs391",,"39508","40057",,"96",,
+"514","modestum 4x","Hojs395","39569","40057",,"259",,
+"515","procurrens 4x","Hojs373","39873","40057","1,2","2547",,
+"516","procurrens 4x","Hojs376","39873","40057","0,7","1577",,
+"517","guenoarum","BO-107","Verano 2012","41122","12","3700",,
+"518","guenoarum","BO-177","Verano 2012","41122","10",,,
+"519","guenoarum","BO-182","Verano 2012","41122","1.6","470",,
+"520","guenoarum","U-100","Verano 2012","41122","10","3400","A, Santa Fe,  Departamento General Obligado, 2.8 km sur de Hardoy, borde este de la ruta Nacional Nº 11, 28º 10’ 38’’ S; 59º 15’ 56’’ W. Se cultivan en tierra en la FCA 10 plantas desde noviembre 2011","40"
+"521","plicatulum  cv. Hartley","BO-123","Verano 2012","41122","10","8400",,
+"522","plicatulum","BO-125","Verano 2012","41122","10","5900",,
+"523","plicatulum  cv. Hartley","BO-146","Verano 2012","41122","10","8200",,
+"524","plicatulum c v. Bryan","BO-190","Verano 2012","41122","12","8800",,
+"525","plicatulum  cv. Rodd’s Bay","BO-191","Verano 2012","41122","14","9500",,
+"526","plicatulum","BO-268","Verano 2012","41122","2","700",,
+"527","unispicatum 2x","U-15","Verano 2012","41122","0.8","1000",,
+"528","alcalinum","4303","Verano 2012","41244","8.09","6148",,
+"529","alcalinum","Sartor 1","Verano 2012","41244","7.05","5358","A, Chaco, 56 km al Norte de Sáenz Peña. Ruta Nacional 95","50"
+"530","alcalinum","U 81","Verano 2012","41244","10.78","8193",,
+"531","alcalinum","4133","Verano 2012","41244","2.0299999999999998","1542","A, Chaco, Machagai","40"
+"532","alcalinum","4155","Verano 2012","41244","7.29","5540",,
+"533","alcalinum","Sartor 13","Verano 2012","41244","6.04","4590","A, Chaco. Acceso a Puerto Antequeras.","60"
+"534","alcalinum","Hojsgaard 354","Verano 2012","41244","1.03","783","A, Formosa, Ibarreta, ruta nac. 81, entrada al pueblo, 25º 12’ 22’’ S, 59º 50’ 59’’ W, 122 msm. Una planta","60"
+"535","compressifolium","AK40811","Noviem. 2012","41244","12.32","8219",,
+"536","unispicatum","MS11","41275","41306","5.15","2830",,
+"537","compressifolium","AK40811","2012","41456","5.6",,,
+"538","pumilum","Q4323","41244","41456","0.9","≈1200",,
+"539","palustre","Bordón 110","41030","41456","1.8",,,
+"540","plicatulum","Honfi 14","Feb-Mar 2013","41456","2","≈1100","A, Misiones, Candelaria","20"
+"541","dilatatum “uruguaiana”","V12388","41275","41456",,"≈300",,
+"542","dilatatum ssp. flavescens","Q4318","41334","41456","2.2000000000000002",,,
+"543","dilatatum “Virasoro”",,"41213","41456","1.7",,,
+"544","dilatatum “Virasoro”","Q2960","Enero-mayo/2013","41456","5",,,
+"545","dilatatum","Q4322","884923","41456","2.4",,,
+"546","dilatatum cv PRIMO","Q4322","Ener-abr 2013","41456","3.3",,,
+"547","guenoarum","U 100","Feb - marzo 2013","41609","31.8","8712",,
+"548","plicatulum 4PT × guenarum Azulao F1 nº 4 (sexual)",,"41306",,,"14",,
+"549","plicatulum 4PT × guenarum Azulão F1 nº 41(sexual)",,"41306",,,"39",,
+"550","plicatulum 4PT × guenarum Azulão F1 nº 41 × F1 nº 4",,"41306",,,"37",,
+"551","plicatulum 4PT × guenarum Azulão [F1 nº 10 × F1 nº 8 × F1 nº 41]",,"41306",,,"280",,
+"552","PLICATULA:",,"41699",,,"63",,
+"553","PLICATULA:",,"41699",,,"60",,
+"554","PLICATULA:",,"41699",,,"27",,
+"555","PLICATULA:",,"41699",,,"20",,
+"556","PLICATULA:",,"41699",,,"113",,
+"557","PLICATULA:",,"41699",,,"63",,
+"558","PLICATULA:",,"41699",,,"53",,
+"559","PLICATULA:",,"41699",,,"90",,
+"560","4PT × nicorae 508821 #1 Pol. libre",,"40909","41852",,"165",,
+"560","whrightii","4329","41743","41852","2.86","3500","AUS, recibido de Australian Tropical Crops and Forages Collection en 2013 vía Wrightson Pas, Uruguay, en 2013. Se llevaron 10 plantas al campo Riachuelo y 3 quedaron en tierra en FCA-UNNE, nov. 2013, sect. C.",
+"561","notatum var. saurae","Hojsgaard 398/399","41609","41852","2.77","1600","Corrientes, río Empedrado. Son dos plantas de la misma población coleccionadas el 22/11/&2008. La # 398 tiene estigmas blanquecinos. Ambas son diploides y fueron colocadas en tierra el 16/11/09, las dos en la misma parcela en la colección de P. noratum","20"
+"562","notatum var. saurae","Puente Pesoa","41609","41852","","67","En sobre de papel. Dos plantas de Puente Pesoa",
+"563","pubiflorum","Worthington 37037","41760","41852","2.22","1500","En sobre de papel",
+"564","paniculatum","Worthington 37100","41759","41852","1.06","2700","En sobre de papel",
+"565","paniculatum","Worthington 36817","41759","41852","0.95","2400","En sobre de papel",
+"566","notatum","C&A 1556","41711","41852","","250","En sobre de papel. C&A = Clausen y Alonso",
+"567","rufum","3756","41957","41852","","150","En sobre de papel.  Semilla de polinización libre, semiescarificada (cariopses y espiguillas llenas completas). Apomíctico 4x",
+"568","Paspalum sp. (simplex × urvillei?)","4312","41671","41852","1","1100","En sobre de papel.  Híbrido natural, 2n=50 ¿simplex 3x X urvillei?)",
+"569","P. aff. arundinellum","U105","41640","41852","0.2542","198","En sobre de papel",
+"570","simplex","Valls 9073  BRA007480","41699","41852","6.25","","BR, MS, Corumbá, 19º00’S – 57º30’W; 100msm – Recibí aproximadamente 120 semillas de Alessandra Fávero –CPPSE-Embrapa Pecuária Sudeste, el 30-09-2013 - Transpl de 10 plantas em Riachuelo y 3 em FCA (sector C) en Nov 2013",
+"571","fimbriatum","Worthington 37098","41699","41852","2.5","","PUERTO RICO, Sierra de Cayey, Municipio de San Lorenzo, 18º 06.185’ N, 66º 01.207’ W. Semillas obtenidas del ejemplar de herbario depositado en CTES. Tres plantas cultivadas en tierra en FCA-UNNE; verano 2013-2014",
+"572","Fimbriatum","Worthington 36875","41730","41852","7.25","","USA, Puerto Rico, Municipio Yauco, Cordillera Central, about 5 rd mi E of hwy 128 along hwy 374.-18º08.38’ N, 66º 49.468’ W, 3100 ft.; cultivado desde sept 2013 en FCA-UNNE a partir de semillas del ejemplar de herbario de Worthington. Relación contenido DNA embrión/endospermo = 2/3 (reproducción sexual)	2x	S",
+"573","plicatulum","4300","41579","41852","15.5","8500","PARBenjamin Acebal, ruta Transchaco, colectado el 06/05/08 espiguillas chicas",
+"574","guenoarum “Ramírez”","4334","2014","41852","13.31","2771","AUS, recibido de Australian Tropical Crops and Forages Collection en 2013 vía Wrightson Pas, Uruguay, en 2013. Se llevaron 10 plantas al campo Riachuelo y 3 quedaron en tierra en FCA-UNNE, nov. 2013, sect. C.
+Ver: http://www2.dpi.qld.gov.au/extra/asp/AusPGRIS/Scripts/Display_Accession.asp?theAccession=AusTRCF318889
+The AusPGRIS website says that AusTRCF 318889 is Paspalum guenoarum, the preferred name is “Ramirez” ; the alternative names: “Cultivar Bela Vista, and “BRA 003824”; the breeding status: “Cultivar”; the origin: “Brazil (State: Mato Grosso do Sul, Region: Brazil)”; collection data: “latitude 22, altitude 180” and the donor: Bruce Bruce Cook. I have checked the Brazilian list of Paspalum germplasm (BRA 003824) and I found that the original collection was done by Dr. Valls and coworkers # 8563 at Bela Vista, Mato Grosso do Sul, 21º53’ S 55º19’ W, altitude 180.",
+"575","guenoarum “Ramírez”","U112","2014","41852","12.12","3253","En tubo de película fotográfica. (22/08/16 SE RETIRARON 50 SEMILLAS-P. Novo) (-2019R.R.Schulz retiró 100 semillas)",
+"576","guenoarum “Azulao”","","","41852","22.74","11274","En frasco de Berocca. (22/08/16 SE RETIRARON 50 SEMILLAS-P. Novo)",
+"577","4PT x nicorae 508821 #1 Pol. Libre","","40909","41852","","165","En sobre de papel",
+"578","4PT x nicorae 508821 #4 Pol. Libre","","40909","41852","","295","En sobre de papel",
+"579","4PT x nicorae 508821 #5 Pol. libre","","40909","41852","","7","En sobre de papel",
+"580","4PT x nicorae 508821 #7 Pol. libre","","40909","41852","","1292",,
+"581","4PT x nicorae508821 #8 Pol. libre","","40909","41852","","35",,
+"582","4PT x nicorae  508821 #10 Pol. libre","","40909","41852","","140",,
+"583","4PT x nicorae 508821 #12 Pol. libre","","40909","41852","","21",,
+"584","4PT x nicorae 508821  #16 Pol. libre","","40909","41852","","204",,
+"585","4PT x nicorae 508821 #17 Pol. libre","","40909","41852","","59",,
+"586","4PT x nicorae 508821 #19 Pol. libre","","40909","41852","","333",,
+"587","4PT x nicorae 508821 #1  Autopol.","","40909","41852","","64",,
+"588","4PT x nicorae 508821 #4 Autopol.","","40909","41852","","37",,
+"589","4PT x nicorae 508821 #7  Autopol.","","40909","41852","","137",,
+"590","4PT x nicorae 508821 #8  Autopol.","","40909","41852","","23",,
+"591","4PT x nicorae  508821 #10  Autopol.","","40909","41852","","304",,
+"592","4PT x nicorae 508821 #16  Autopol.","","40909","41852","","82",,
+"593","4PT x nicorae 508821 #19  Autopol.","","40909","41852","","9",,
+"594","plicatulum Hojs388 Autopol.","","40909","41852","","223",,
+"595","plicatulum Hojs388 Pol. libre","","40909","41852","","1255",,
+"596","4PT x plicatulum Hojs388 #1 Pol. libre","","40909","41852","","9",,
+"597","4PT x plicatulum Hojs388 #2 Pol. libre","","40909","41852","","369",,
+"598","4PT x plicatulum Hojs388 #3 Pol. libre","","40909","41852","","309",,
+"599","4PT x plicatulum Hojs388 #2 Autopol","","40909","41852","","72",,
+"600","notatum","4117","42064","42186","17.6","","BR, RS, localidad desconocida","40"
+"601","denticulatum","Rua 507","42064","42186","1","900","Paraguay, Dpto. Concepción, cruce de la Ruta 3 con el Arroyo Azote-í. Originalmente se colectó una muda y se cultivo en FAUBA. El ejemplar de herbario se hizo a partir de ese cultivo el 07/03/1997 (conservado en el herbario  BAA). Una muda de esa planta se introdujo en FCA-UNNE en mayo 2010. Rua informa que la planta es tetraploide.","40"
+"602","glaucescens","4337","42005","42186","0.4","230","AUS, recibido de Australian Tropical Crops and Forages Collection en 2013 vía Wrightson Pas, Uruguay, en 2013. Solo nacieron tres plantas y se trasplantaron en tierra en FCA-UNNE, nov. 2013, sect. C. Contaron 2n=40 P.Novo y F.Espinoza, 2016","40"
+"603","Guenoarum  (Rojas 19=GR19)","","42036","42186","7","2400",,
+"604","Plicatula. H20: 4PT  X Rojas 19. Polinización libre","","42370","42401","14.42","4513",,
+"605","lenticulare? Cv.  “Hartley”","BO-123","42491","42491","5","≈5000",,
+"606","lenticulare","BO-125","42491","42491","5","≈5000",,
+"607","lenticulare cv. “Hartley”","BO-146","42491","42491","5","≈5000",,
+"608","lenticulare","BO-268","42491","42491","5","≈5000",,
+"609","lenticulare? Cv. “Bryan”","BO-190","42491","42491","5","≈5000",,
+"610","lenticulare? Cv. “Rodd’s Bay”","BO-191","42491","42491","5","≈5000",,
+"611","lenticulare (diploide  2n=20)","BO-191","42491","42491","5","≈5300",,
+"612","lenticulare","N-214a","42491","42491","3","≈3000",,
+"613","lenticulare","Q4333","42491","42491","3.5","≈3700",,
+"614","lenticulare","TK-2417","42491","42491","5","≈5000",,
+"615","lenticulare","W-36937","42491","42491","5","≈5000","PUERTO RICO, Municipio Adjuntas, 18º 09.955 N, 66º 45.111’ W, “about 1 mi. south of jct. of hways. 135 with 526 near and both sides of communication towers, 2500 ft. 1 m tall clump” Semillas obtenidas del ejemplar de herbario de Richard Worthington Nº 36937. Tres plantas cultivadas en tierra en FCA-UNNE. Verano 2013/14. Cuando se introdujo vino con el nombre de P. boscianum, pero según mi criterio es P. lenticulare Kunt (CLQ)",""
+"616","lenticulare","TK-2396","42491","42491","5","≈5000",,
+"617","lenticulare","N153","42491","42491","","",,
+"618","lenticulare","N164","42491","42491","","",,
+"619","lenticulare","U41","42491","42491","","",,
+"620","lenticulare","U43","42491","42491","","",,
+"621","lenticulare","U54","42491","42491","","",,
+"622","lenticulare","L347","2013","42491","","",,
+"623","lenticulare","TK2455","42491","42522","3.38","≈3000","BO, Dept. Santa cruz, Prov. Ñuflo de Chavez, Estancia Salta, 10 km S de Concepción en la ruta a Lomerío, 16º13’S, 62º00’W, 500 msm. Publicamos esta planta como 4x en Ann Miss Bot Gard 81:771.1994. Está cultivada en tierra, es una sola planta, florece muy tardíamente, entre mayo y junio en Corrientes. La producción de semilla es bajísima (unos 250 cariopses de casi 150 inflorescencias en 2010). Floppy corroboró con citometría que es 4x y además es apomíctico facultativo. Produce muy poca semilla para ser considerado como posible forrajera. Es una planta totalmente peluda.","40"
+"624","chacoense","3630","42370","42583","","23","PAR, 10 km Northeast of Filadelfia, cultivated by B.L.Burson at Temple, Texas, Grassland, Soil & wather Research Laboratory, nursery  nº 261. Introduced to Corrientes, Argentina, Octuber 1979","20"
+"625","conjugatum","Worthington 37178","42370","42583","1.3","","PUERTO RICO, Cordillera Central, Municipio Adjuntas; 18º 09.955’ N, 66º 45.111’ W;  2500ft alt. Semillas obtenidas del ejemplar de herbario collectado en julio 2013. Un duplicado depositado en CTES en 2013. Cinco plantas cultivadas en tierra en FCA-CTES; verano 2013-2014.",""
+"626","plicatulum","ML1","42675","42705","8.85","4200",,
+"627","plicatulum","ML2","42675","42705","12.0","5700",,
+"628","plicatulum","ML3","42644","42705","5.0","2000",,
+"629","plicatulum","ML5","42644","42705","0.7","230",,
+"630","plicatulum","ML6","42644","42705","12.5","4400",,
+"631","plicatulum","ML7","42675","42705","3.7","1400",,
+"632","plicatulum","4350","42675","42705","4.3","1600","A, Corrientes, Monte Caseros, cruce ruta Nac 14 y Ruta prov 129, acceso a Monte Caseros. 30º 15’ 27’’ S – 57º 57’ 43’’ W. Semillas colectadas por técnicos de PGG Wrigthson Seeds. Cultivado en FCA-UNNE",
+"633","`","4351","42675","42705","3.22","1900","A, Corrientes, Monte Caseros, cruce ruta Nac 14 y Ruta prov 129, acceso a Monte  Caseros. 30º 15’ 27’’ S – 57º 57’ 43’’ W. Semillas colectadas por técnicos de PGG Wrigthson Seeds. Cultivado en FCA-UNNE. Tiene racimos bastante erectos com P.wrightii pero más cortos y rizomas catafilosos pero em menor cantidad y mucho más cortos. Se asemeja en algo a Hojsgaard 388",
+"634","plicatulum","4356","42644","42705","10.3","2900","A, Santa Fe, Departamento General Obligado, 5 km al noroeste de Lanteri; 28º48’27,66’’S – 59º40’34,8’’ W – 59 msm, colecionado por Quarin, Urbani, Acuña, Zilli y Borelli al costado de lar uta. Rizomas de uma sola planta. Marzo 31, 2016 láminas foliares muy largas. Cultivado en tierra desde 2017. Es de floración temprana: Octubre-Noviembre.",
+"635","Indecorum","AH1458 × Q4207","42644","42705","0.3","380",,
+"636","[(plicatulum 4PT × chaseanum ST13894 F1 nº 2) × plicatulum ML13] trihíbrido nº 2","[C2 × ML13] nº 2","42339","42705","2.2","600",,
+"637","nicorae","PI508821","42675","42705","2.9","1400",,
+"638","plicatulum","Hojs 388","42675","42705","4.8","3000",,
+"639","nicorae","U119","43040","42826","5.65","2828",,
+"640","usterii","V 14219","Nov. 2016","42856","2.4","4800","BR, RS, Vitória das Missões. Introducido desde CPPSE São Carlos, SP, Brasil em marzo de 2014 por semillas. Tres plantas cultivadas en tierra. Según Valls, es tetraploide 2n=40, ver mail del 25-10-16. Sería una especie nueva no descrita; consultar con José F.M.Valls o con Gabriel Rua. Cosecha de semilla para conservar: Noviembre 2018. Es de floración temprana (octubre-Noviembre).","40"
+"641","notatum (autofecundado)","4188","42795","42856","6.4","2250","Híbrido F1 # 31, sexual, entre Q3664x Q3853. Cruzamiento realizado en 1984 en FCA-UNNE. Método reproductivo determinado por M.H.Urbani mediante cortes seriados en 1988/89. En mayo 2019, para corroborar el sistema reproductivo, F.Galdeano determinó con citometría de flujo que 20 semillas producidas en polinización abierta eran de origen sexual.","C"
+"642","cromyorrhizon 2x","3635","X-2015 a V-2016","42856","1.4","700",,
+"643","glaucescens (Autopolinización)","4337","42767","43070","","21","AUS, recibido de Australian Tropical Crops and Forages Collection en 2013 vía Wrightson Pas, Uruguay, en 2013. Solo nacieron tres plantas y se trasplantaron en tierra en FCA-UNNE, nov. 2013, sect. C. Contaron 2n=40 P.Novo y F.Espinoza, 2016","40"
+"644","glaucescens     (Polinización libre)","4337","42767","43070","","5",,
+"645","chaseanum","F3377 X (K45457xF3377)","42675","43070","","72",,
+"646","chaseanum","AK45457 X (K45457xF3377)","42370","43070","","1188",,
+"647","chaseanum","K45457 X F3377 Polinización libre","42370","43070","","317",,
+"648","chaseanum","AK45457 Polinización libre","42705","43070","","352",,
+"649","denticulatum","U126","Dic. 2017","Dic. 2017","0.7","700","A, Chaco, 8 km al norte del acceso a Tres Isletas, Ruta Nac 95; 26º16’06’’ S  60º18’06” W. Colecta de M.H.Urbani en Diciembre 2017. Sin ejemplar de herbario",""
+"650","guenoarum U100 (Polinización libre)","","42767","43070","","256",,
+"651","notatum","4348","2016/2017","43070","26","","AR, Corrientes, 47 km al noreste de Chavarría, ruta provincial nº 22 camino a Concepción; 28º 40’ 15” S, 58º 14’ 17” W cultivado a partir de semillas en parcela de 9 plantas. Semillas de esta parcela conservadas desde diciembre 2017 en heladera.",
+"652","notatum “Boyero UNNE”","cv Boyero UNNE","Enero-marzo 2017","43070","18.2","",,
+"653","notatum 3x","4295","Enero-marzo 2017","43070","9.0","","A.Santa Fe, Cayastá. 31º 12’ 33’’ S – 60º 09’ 39’’ W. Cultivado en FCA-UNNE. Planta triploide (2n=30) surgida de un rizoma colectado por F. Espinoza en las ruinas de Santa Fe la Vieja, donde crecían tanto plantas diploides como tetraploides de la misma especie.","30"
+"654","notatum ¿2x?","","42767","43070","13.7","",,
+"655","notatum","3775","Enero-marzo 2017","43070","31.5","","MEX, Tamaulipas","40"
+"656","notatum","4360","42736","43070","6.1","","UR. Salto, Agrocentro Salto: -31.424958, -57.934499. Rizomas introducidos desde Uruguay por Juan E. Díaz Lago de la empresa Wrightson Seeds  el 27/04/2016. Cuatro plantas a tierra desde agosto 2016. Semillas de esta parcela conservadas desde diciembre 2017",""
+"657","notatum","4010","Enero-feb2017","43070","2.0","","BR, MS, Tres Lagoas. Dos gramos se semillas conservadas desde diciembre 2017 en heladera","40"
+"658","notatum “Argentine”","cv. “Argentine”","Enero-marzo 2017","43070","10.8","",,
+"659","notatum??","FWC nº 31","42795","43070","1.1","",,
+"660","notatum","4186","42795","43070","25.3","","Híbrido F1 # 2, apomíctico, entre Q3664xQ3853 logrado experimentalmente","40"
+"661","notatum","3931","42795","43070","21.4","",,
+"662","notatum","Q3664×Q4117 F1 nº 23","Enero-marzo 2017","43070","18.3","",,
+"663","notatum","Q3664×Q4117 F1 nº 46","Enero-marzo 2017","43070","26","",,
+"664","glaucescens (autopolinización)","4337","43132","43282","","51",,
+"665","glaucescens (polinización libre)","4337","43132","43282","","442",,
+"666","wrightii (autopolinización)","4351","43101","43282","","287",,
+"667","wrightii (polinización libre)","4351","43101","43282","","2226",,
+"668","guenoarum “azulao”","Azulao","Feb-Abr/2009","2009","12","4200","BR, Depressão Central do Rio Grande do Sul, cultivado en Universidade Federal do Rio Grande do Sul, Faculdade de Agronomia, Departamento de Plantas Forrageiras e Agrometeorologia. Rizomas enviados por Miguel Dall’Agnol y recibidas en FCA, UNNE, Corrientes en Julio de 2008. Se cosecharon semillas en la temporada 2008/09","40"
+"669","plenum","Maruñak 539","39448","2008","","450","A, Salta","40"
+"670","arundinellum","Daviña & Honfi 479","40269","2010","","130",,
+"671","millegrana","4297","39600","2008","1.5","1300","BR, Parana, Guaratuba, dos plantas introducidas a FCA-UNNE por rizomas","40"
+"672","dilatatum ssp. flavescens","3952","39900","40148","1.3","","UR, Montevideo","40"
+"673","paucifolium","Hojsgaard 382","39833","40148","","950",,
+"674","guenoarum? atratum?","4334","42125","42339","27","6450","AUS, recibido de Australian Tropical Crops and Forages Collection en 2013 vía Wrightson Pas, Uruguay, en 2013. Se llevaron 10 plantas al campo Riachuelo y 3 quedaron en tierra en FCA-UNNE, nov. 2013, sect. C.",""
+"675","lenticulare 2x","N 188","41393","2014","3.6","",,
+"676","DILATATA (¿urvillei × mandiocanum?)","Valls 8009","39904","40148","","3600",,
+"675","notatum","Q4205×Q3686","40148","40148","","332",,
+"678","PLICATULA:","","42430","42614","","199",,
+"679","PLICATULA:","","42430","42614","","101",,
+"680","PLICATULA:","","42430","42614","","93",,
+"681","plicatulum 4PT × glaucescens","","42767","43070","","2290",,
+"682","plicatulum 4PT × guenoarum U100. Híbridos F1","","42767","43070","","2760",,
+"683","plicatulum 4PT × glaucescens","","43132","43435","","1569",,
+"684","plicatulum 4PT × wrightii Q4351","","43101","43282","","2746",,
+"685","plicatulum 4PT × atratum U44","","43160","43282","","513",,
+"686","simplex – Ciclo 5 - selectas individuales","4109","Enero-Febrero 2017","43435","3","",,
+"687","simplex – Ciclo 5 - mezcla de 16 selectas","4109","Enero-Febrero 2017","43435","1.57","",,
+"688","simplex – - Ciclo 6 - selectas individuales","4109","Enero-Febrero 2018","43435","2","",,
+"690","chaseanum 4x","ST13894","43497","43678","","110",,
+"691","lenticulare 4x","V11893","43556","43678","2.54 g","≈2000",,
+"692","lenticulare","V16850","43617","43678","0.75","≈500","BR, Goias, Alto Paraiso de Goias, 14º04’21.1’’ S 47º25’24.0’’ W, 946 msnm. (Misma parada que V16849 pero en otro lugar). Tallos con rizomas colectados el 21-03-18. Introducidos por E.J.Martínez y Adriana Glücksberg a la FCA-UNNE, Corrientes, en Marzo 2018. Dos plantas mantenidas en macetas en invernáculo y luego llevadas a tierra el 30 de enero de 2019. En mi opinión (CLQ) se trata de P. lenticulare. Valls identificó como P. atratum en el momento de colección pero la planta no estaba en floración en ese momento.",""
+"693","atratum (P. lenticulare ?)","V16835","43617","43678","5.8","≈3000",,
+"694","atratum (P. lenticulare ?)","V16849","43617","43678","1.2","≈800",,
+"695","dilatatum  “VIRASORO”","Valls 9749","43556","43678","1.35","≈750",,
+"696","dilatatum  “VIRASORO”","2960","43556","43678","2.32","≈1420","A, Corrientes, Virasoro","40"
+"697","denticulatum Trin.","M.E. Sartor #12","43556","43678","0.49","≈430",,
+"698","denticulatum","R 507","Abril-Mayo  2019","43678","3.4","≈3500",,
+"698","denticulatum","R 507","Abril-Mayo  2019","43678","3.4","≈3500",,
+"699","mandiocanum var. subaequiglume","4371","Abril-Mayo  2019","43678","0.72","≈1050",,
+"700","notatum","EJM 50","43160","43678","2.23","≈1200",,
+"701","notatum","EJM 53","43160","43678","9.06","≈2000",,
+"702","notatum","EJM 60","43160","43678","1.86","≈480",,
+"703","notatum","EJM 74","43160","43678","4.28","≈880",,
+"704","notatum","EJM 90","43160","43678","4.23","≈1200",,
+"705","notatum","EJM 92","43160","43678","1.8","≈450",,
+"706","guenoarum ?","EJM 101","43617","43678","9.5","≈4500",,
+"707","procurrens 2x","EJM 80","43586","43678","0.19","≈300",,
+"708","guenoarum","4334","43132","43709","30.57","",,
+"709","erianthum","TK 1194","43770","43831","","≈200",,
+"710","plicatulum.","U 134","43770","43831","1.77","≈680","A, Jujuy, Zapala, camino a Mina 9 de Octubre, -24.243640 S -65.103545 W colectóM.H.Urbani 25/07/19 y se cultiva en la FCA-UNNE en maceta a partir de rizomas de una planta.",""
+"711","wrightii","Q 4351","43800","43831","","385",,
+"712","wrightii","Q 4311","43800","43831","","174",,
+"713","plicatulum","Hojs. 388","43800","43831","","258",,
+"714","atratum  cv. Cambá","","43586","43800","","10263 (Total)",,
+"715","plicatulum 4PT × atratum  cv Cambá. Híbridos F1","","43586","43800","","3888 (Total)",,
+"716","notatum","U 128","43831","43891","6.6","≈1800",,
+"717","notatum","U 129","43831","43891","11.4","≈3100",,
+"718","urvillei","U 133","43800","43891","0.63","≈950",,
+"719","commune","U 136","43831","43891","1.92","≈1975",,
+"720","notatum","EJM 48","43862","43891","9.00","≈3700",,
+"721","notatum","EJM 50","43862","43891","14.6","≈4300",,
+"722","notatum","4023","43831","43891","2.5","≈1000","BR, MS, 30 km E de Ponta Pora","40"
+"723","notatum  cv. Boyero","Boyero","Enero 2019","43891","15.7","≈5600","Ver Urbani et al. 2016.  Journal of Plant Registrations 11:26–32 (2017). doi:10.3198/jpr2016.04.0021crc","40"
+"724","notatum cv. Argentine","Argentine","43466","43891","11.8","≈3300",,
+"725","notatum","3775","43466","43891","17.00","≈4500","MEX, Tamaulipas","40"
+"726","atratum  cv. Cambá","","43952","44287","","2127 (Total)",,
+"727","plicatulum 4PT × atratum  cv Cambá. Híbridos F1","","43891","44287","","17733",,
+"728","dasypleurum","4352","41640","41671","15","",,
+"729","dasypleurum","4353","41640","41671","12.7","",,
+"730","dasypleurum","4354","41640","41671","15","",,
+"742","urvillei  Población M1 (Polinización  libre).","M1","42705","43405","8.9","",,
+"743","urvillei Población M5 (Polinización libre)","M5","42705","43405","11.4","",,
+"744","urvillei Población M14 (Polinización libre)","M14","42705","43405","7.9","",,
+"745","urvillei Población M23 (Polinización libre).","M23","42705","43405","11.3","",,
+"746","urvillei Población M27 (Polinización libre)","M27","42705","43405","8.6999999999999993","",,
+"747","regnellii Población M2 (Polinización libre)","M2","Enero-Febrero 2017","43405","8","",,
+"748","regnellii Población M19 (Polinización libre)","M19","Enero-Febrero 2017","43405","7.4","",,
+"749","regnellii Población M20 (Polinización libre)","M20","Enero-Febrero 2017","43405","8","",,
+"750","regnellii Población M21 (Polinización libre)","M21","Enero-Febrero 2017","43405","7.6","",,
+"751","regnellii Población M22 (Polinización libre)","M22","Enero-Febrero 2017","43405","10.7","",,
+"789","P. durifolium 4x Población M6 (Polinización libre)","M6","43435","43497","2.2999999999999998","",,
+"790","P. durifolium 4x Población M7 (Polinización libre)","M7","43435","43497","9.6999999999999993","",,
+"791","P. durifolium 4x Población M16 (Polinización libre)","M16","43435","43497","10.199999999999999","",,
+"792","P. durifolium 4x Población M17 (Polinización libre)","M17","43435","43497","5","",,
+"793","P. durifolium 4x Población M18 (Polinización libre)","M18","43435","43497","9","",,
+"794","P. intermedium 2x Población M9 (Polinización libre)","M9","43435","43497","5.4","",,
+"795","P. intermedium 4x Población M15 (Polinización libre)","M15","43435","43497","2.5","",,
+"796","P. intermedium 2x Población M26 (Polinización libre)","M26","43435","43497","8.4","",,
+"797","P. intermedium 4x Población M28 (Polinización libre)","M28","43435","43497","8.5","",,
+"798","P. intermedium 4x Población M33 (Polinización libre)","M33","43435","43497","3.4","",,
+"799","P. intermedium 4x Población M34 (Polinización libre)","M34","43435","43497","3.3","",,
+"800","P. intermedium 4x Población M35 (Polinización libre)","M35","43435","43497","9.1999999999999993","",,
+"801","P. notatum","L9P20",,,"1111",,,
+"802","P. notatum","L9P19",,,"1008",,,
+"807","P. notatum","L9P14",,,"1056",,,
+"808","P. notatum","L9P13",,,"0.968",,,
+"809","P. notatum","L9P12",,,"0.971",,,
+"810","P. notatum","L9P11",,,"0.948",,,
+"812","P. notatum","L9P9",,,"1055",,,
+"816","P. notatum","L9P5",,,"1230",,,
+"817","P. notatum","L9P4",,,"1278",,,
+"824","P. notatum","L10P19",,,"0.994",,,
+"827","P. notatum","L10P16",,,"1003",,,
+"828","P. notatum","L10P15",,,"0.972",,,
+"829","P. notatum","L10P14",,,"1067",,,
+"835","P. notatum","L10P8",,,"1027",,,
+"837","P. notatum","L10P6",,,"0.967",,,
+"841","P. notatum","L10P2",,,"1021",,,
+"848","P. notatum","L11P17",,,"1120",,,
+"854","P. notatum","L11P11",,,"1033",,,
+"855","P. notatum","L11P10",,,"0.981",,,
+"856","P. notatum","L11P9",,,"1035",,,
+"857","P. notatum","L11P8",,,"1048",,,
+"860","P. notatum","L11P5",,,"0.982",,,
+"861","P. notatum","L11P4",,,"0.941",,,
+"862","P. notatum","L11P3",,,"1019",,,
+"864","P. notatum","L11P1",,,"0.936",,,
+"866","P. notatum","L12P21",,,"1131",,,
+"868","P. notatum","L12P19",,,"0.963",,,
+"872","P. notatum","L12P15",,,"1154",,,
+"875","P. notatum","L12P12",,,"0.954",,,
+"878","P. notatum","L12P9",,,"1188",,,
+"879","P. notatum","L12P8",,,"1080",,,
+"887","P. notatum","L13P22",,,"2209",,,
+"888","P. notatum","L13P21",,,"1086",,,
+"899","P. notatum","L13P10",,,"1114",,,
+"900","P. notatum","L13P9",,,"1071",,,
+"901","P. notatum","L13P8",,,"1250",,,
+"905","P. notatum","L13P4",,,"1098",,,
+"909","P. notatum","L14P22",,,"1037",,,
+"915","P. notatum","L14P16",,,"1187",,,
+"923","P. notatum","L14P8",,,"1013",,,
+"924","P. notatum","L14P7",,,"1279",,,
+"932","P. notatum","L15P14",,,"0.954",,,
+"935","P. notatum","L15P11",,,"0.977",,,
+"936","P. notatum","L15P10",,,"1023",,,
+"946","P. lepton","L1P22",,,"1486",,,
+"947","P. lepton","L2P22",,,"1274",,,
+"948","P. lepton","L2P21",,,"1143",,,
+"949","P. lepton","L2P19",,,"0.976",,,
+"950","P. lepton","L2P18",,,"1133",,,
+"951","P. lepton","L2P17",,,"1250",,,
+"952","P. lepton","L2P16",,,"1520",,,
+"953","P. lepton","L2P15",,,"1097",,,
+"954","P. lepton","L2P13",,,"1229",,,
+"955","P. lepton","L2P12",,,"1358",,,
+"956","P. lepton","L2P11",,,"1279",,,
+"957","P. lepton","L2P10",,,"1393",,,
+"958","P. lepton","L2P9",,,"1451",,,
+"959","P. lepton","L2P8",,,"1540",,,
+"960","P. lepton","L2P7",,,"1187",,,
+"961","P. lepton","L2P6",,,"1271",,,
+"962","P. lepton","L2P5",,,"1608",,,
+"963","P. lepton","L2P3",,,"1082",,,
+"964","P. lepton","L3P22",,,"0.951",,,
+"965","P. lepton","L3P18",,,"1247",,,
+"966","P. lepton","L3P17",,,"1186",,,
+"967","P. lepton","L3P16",,,"1299",,,
+"968","P. lepton","L3P15",,,"1604",,,
+"969","P. lepton","L3P14",,,"1166",,,
+"970","P. lepton","L3P12",,,"1136",,,
+"971","P. lepton","L3P10",,,"1015",,,
+"972","P. lepton","L3P9",,,"1300",,,
+"973","P. lepton","L3P8",,,"1109",,,
+"974","P. lepton","L3P6",,,"1089",,,
+"975","P. lepton","L3P5",,,"1176",,,
+"976","P. lepton","L3P4",,,"1137",,,
+"977","P. lepton","L3P3",,,"1270",,,
+"979","P. lepton","L4P21",,,"1131",,,
+"980","P. lepton","L4P20",,,"1401",,,
+"981","P. lepton","L4P19",,,"1320",,,
+"982","P. lepton","L4P18",,,"1475",,,
+"983","P. lepton","L4P17",,,"1942",,,
+"984","P. lepton","L4P16",,,"1710",,,
+"985","P. lepton","L4P15",,,"1982",,,
+"986","P. lepton","L4P14",,,"1833",,,
+"987","P. lepton","L4P13",,,"1445",,,
+"988","P. lepton","L4P12",,,"2319",,,
+"989","P. lepton","L4P11",,,"2143",,,
+"990","P. lepton","L4P10",,,"1981",,,
+"991","P. lepton","L4P9",,,"1981",,,
+"992","P. lepton","L4P8",,,"1801",,,
+"993","P. lepton","L4P7",,,"1801",,,
+"994","P. lepton","L4P6",,,"2205",,,
+"995","P. lepton","L4P5",,,"2196",,,
+"996","P. lepton","L4P1",,,"1271",,,
+"997","P. lepton","L5P20",,,"1329",,,
+"998","P. lepton","L5P19",,,"1236",,,
+"999","P. lepton","L5P18",,,"1085",,,
+"1000","P. lepton","L5P17",,,"1587",,,
+"1001","P. lepton","L5P16",,,"1282",,,
+"1002","P. lepton","L5P14",,,"1632",,,
+"1003","P. lepton","L5P9",,,"1015",,,
+"1004","P. lepton","L5P6",,,"1077",,,
+"1005","P. lepton","L5P1",,,"1159",,,
+"1006","P. lepton","L6P22",,,"1821",,,
+"1007","P. lepton","L6P21",,,"1650",,,
+"1008","P. lepton","L6P20",,,"1450",,,
+"1010","P. lepton","L6P19",,,"1409",,,
+"1011","P. lepton","L6P18",,,"1005",,,
+"1012","P. lepton","L6P17",,,"1673",,,
+"1013","P. lepton","L6P15",,,"1816",,,
+"1014","P. lepton","L6P12",,,"1431",,,
+"1014","P. lepton","L6P11",,,"1765",,,
+"1015","P. lepton","L6P10",,,"1250",,,
+"1016","P. lepton","L6P9",,,"1887",,,
+"1017","P. lepton","L6P8",,,"2018",,,
+"1018","P. lepton","L6P7",,,"2108",,,
+"1019","P. lepton","L6P5",,,"1645",,,
+"1020","P. lepton","L6P4",,,"2006",,,
+"1021","P. lepton","L6P2",,,"1688",,,
+"1022","P. lepton","L6P1",,,"1561",,,
+"1023","P. lepton","L7P22",,,"1613",,,
+"1024","P. lepton","L7P20",,,"1134",,,
+"1025","P. lepton","L7P19",,,"2231",,,
+"1026","P. lepton","L7P17",,,"1075",,,
+"1027","P. lepton","L7P16",,,"2272",,,
+"1028","P. lepton","L7P15",,,"1223",,,
+"1029","P. lepton","L7P14",,,"1078",,,
+"1030","P. lepton","L8P4",,,"1083",,,
+"1031","P. lepton","L8P2",,,"0.957",,,
+"1032","notatum","3686","2010","2010","1.33",,,
+"1033","notatum","TB86","2010","2010","10.51",,"UR, ruta 26 km 389, Depto. Cerro Largo, 32º37’57’’ S, 54º38’50’’ W, 151 msm. Lleva la numeración del INIA de Tacuarembó (TB). Traído al IBONE por Rafael Reyno en marzo/06. Sin ejemplar de herbario. Mismo lugar que TB83",
+"1034","notatum","Valls 14327","2010","2010","2.76",,"BR, RS, Capivari (planta individual introducida por rizoma, junio 2003)",
+"1035","notatum","SW x T24","2010","2010","0.18",,,
+"1036","notatum","4267","2010","2010","2.96",,,
+"1037","notatum","4282","2010","2010","14.76",,,
+"1038","notatum","4282","2010","2010","21.14",,,
+"1039","notatum","4282","2010","2010","21.14",,,
+"1040","notatum","U95","2010","2010","3.76",,,
+"1041","notatum","U66","2010","2010","26.7",,,
+"1042","notatum","3844","2010","2010","0.52",,"BR, RS, Lagoa Vermelha",
+"1043","notatum","CL x T28","2010","2010","4.32",,,
+"1044","notatum","Rita 122","2010","2010","2.34",,"Origen experimental. Planta 4x surgida de autofecundación de la planta Q4188. Tiene anteras amarillo.cremosas, pero aparentemente el color no es tan estable y cambió al cambiar la planta de lugar de cultivo. Debería ser sexual por su origen.",
+"1045","notatum","3686","2010","2010","1.94",,,
+"1046","notatum","3778","2010","2010","25.23",,,
+"1047","notatum","4011","2010","2010","11.46",,,
+"1048","notatum","4186","2010","2010","3.55",,,
+"1049","notatum","3838","2010","2010","7.25",,,
+"1050","notatum","CL x T28","2010","2010","1.38",,,
+"1051","notatum","3931","2010","2010","1.38",,,
+"1052","notatum","4117","2010","2010","15.39",,,
+"1053","notatum","TB86","2010","2010","24.97",,,
+"1054","notatum","B299","2010","2010","3.2483",,,
+"1055","notatum","B229","2010","2010","0.93",,,
+"1056","notatum","4282","2010","2010","21.14",,,
+"1057","notatum","3775","2010","2010","28.96",,,
+"1058","notatum","3844","2010","2010","0.68",,,
+"1059","notatum","4008","2010","2010","5.88",,,
+"1060","notatum","4270","2010","2010","22.48",,,
+"1062","notatum","N 160","2010","2010","15.33",,,
+"1063","notatum","4013","2010","2010","13.08",,,
+"1064","notatum","4276","2010","2010","8.3000000000000007",,"A,Corrientes, Club de los Agentes de Propaganda Médica, con rizomas excepcionalmente gruesos.",
+"1065","notatum","4064","2010","2010","15.95",,,
+"1066","notatum","4029","2010","2010","30.5",,,
+"1067","notatum","4086","2010","2010","7.43",,"A, auto-4x, tratamiento c/colchicina al 4084",
+"1068","notatum","4282","2010","2010","10.78",,,
+"1069","notatum","4282","2010","2010","12.612",,,
+"1070","notatum ''argentina''",,"2010","2010","0.28999999999999998",,,
+"1071","notatum","U 66","2010","2010","3.4",,,
+"1072","notatum","4040","2010","2010","8.34",,"BR, SP, Nova Odessa",
+"1073","notatum","Tifton 7","2010","2010","15.59",,"USA, recibido de Ann Blount, Univeristy of Florida, North Florida Research and Education Center,Marianna FL, el 15/08/2002. Según Ann Blount, 16/08/02: ""The Tifton 7 seed is not released, but is seed a plant developed in the lab by Scotty Forbes and Burton that was tetraploid and apomictic, but better in cold tolerance, forage yield and forage distribution than Argentine"".",
+"1074","notatum","Tifton 7","2010","2010","0.32",,,
+"1075","notatum","4090","2010","2010","0.46",,"A, híbrido 2n+n (3686 x 3658)",
+"1076","notatum","4090","2010","2010","5.0999999999999996",,,
+"1077","notatum","3658","2010","2010","6.08",,"USA, GA, Tifton (line # 2)",
+"1078","notatum","4293","2010","2010","2.16",,"A, Córdoba, Santa Rosa de Calamuchita, en las calles de la ciudad; anteras de color claro, se colectó una planta, toda la población tenía anteras claras y estigmas purpúreos. Febrero 2006. Herborizado el 10/01/2011",
+"1079","notatum","4117","2010","2010","12.82",,,
+"1080","notatum ''argentina''",,"2010","2010","26.25",,,
+"1081","notatum","SWSB","2010","2010","8.01",,,
+"1082","notatum","Valls 14327","2010","2010","0.87",,,
+"1083","notatum","PAR 22","2010","2010","9.68",,,
+"1084","notatum","4295","2010","2010","9.99",,"A.Santa Fe, Cayastá. 31º 12’ 33’’ S – 60º 09’ 39’’ W. Cultivado en FCA-UNNE. Planta triploide (2n=30) surgida de un rizoma colectado por F. Espinoza en las ruinas de Santa Fe la Vieja, donde crecían tanto plantas diploides como tetraploides de la misma especie.",
+"1085","notatum","4295","2010","2010","16.75",,,
+"1086","notatum","Tif 9","2010","2010","11.62",,,
+"1087","notatum","U 47","2010","2010","20.03",,,
+"1088","notatum","U 68","2010","2010","0.46",,,
+"1089","notatum","U 68","2010","2010","11.29",,,
+"1090","notatum","4175","2010","2010","16.14",,,
+"1091","notatum","4029","2010","2010","3.26",,,
+"1092","notatum","3845","2010","2010","11.15",,"A, Corrientes, 18 km N de Sauce, Paso Mula",
+"1093","notatum","4022","2010","2010","3.59",,,
+"1094","notatum","CL x T37","2010","2010","19.07",,,
+"1095","notatum","CL x T37","2010","2010","18.43",,,
+"1096","notatum","2893","2010","2010","7.7",,,
+"1097","notatum","4016","2010","2010","7.37",,,
+"1098","notatum","4012","2010","2010","10.85",,,
+"1099","notatum","CyA 1556","2010","2010","3.6930000000000001",,,
+"1100","notatum","4181","2010","2010","12.96",,,
+"1101","notatum","4210","2010","2010","16.57",,"A, Catamarca, 10 km de San fernando del Valle de Catamarca, camino a El Rodeo.",
+"1102","notatum","CL x T37","2010","2010","4.4000000000000004",,,
+"1103","notatum","4270","2010","2010","0.67",,,
+"1104","notatum","U 70","2010","2010","6.23",,,
+"1105","notatum","4130","2010","2010","6.85",,"A, origen experimental: hibrido BIII 3838x4084",
+"1106","notatum","4294","2010","2010","6.33",,"A, Còrdoba, 11 km oeste de Santa Rosa de Calamuchita, Los Algarrobos, una planta.  Podría tener cierta resistencia a frío. Febrero 2006 (Herborizado en FCA-UNNE el 16/01/07",
+"1107","notatum","4023","2010","2010","13.43",,,
+"1108","notatum","U48","2010","2010","8,13",,"A, Corrientes, Estancia Rincón del Umbú, Mercedes",
+"1109","notatum","#14 Hague Bahiagrass","2010","2010","1.33",,,
+"1010","notatum","#35 Hague Bahiagrass","2010","2010","25",,,
+"1011","notatum","#43 Hague Bahiagrass","2010","2010","25",,,
+"1012","notatum","#122 Hague Bahiagrass","2010","2010","25",,,
+"1013","notatum","#65 Hague Bahiagrass","2010","2010","25",,,
+"1014","notatum","#4 Hague Bahiagrass","2010","2010","25",,,
+"1015","notatum","#36 Hague Bahiagrass","2010","2010","25",,,
+"1016","notatum","#25 Hague Bahiagrass","2010","2010","25",,,
+"1017","notatum","#31 Hague Bahiagrass","2010","2010","25",,,
+"1018","notatum","#7 Hague Bahiagrass","2010","2010","25",,,
+"1019","notatum","#92 Hague Bahiagrass","2010","2010","25",,,
+"1020","notatum","#21 Hague Bahiagrass","2010","2010","25",,,
+"1021","notatum","#22Hague Bahiagrass","2010","2010","25",,,
+"1022","notatum","#19 Hague Bahiagrass","2010","2010","25",,,
+"1023","notatum","#53 Hague Bahiagrass","2010","2010","25",,,
+"1024","notatum","#126 Hague Bahiagrass","2010","2010","25",,,
+"1025","notatum","#28 Hague Bahiagrass","2010","2010","25",,,
+"1026","notatum","#67 Hague Bahiagrass","2010","2010","25",,,
+"1027","notatum","#13 Hague Bahiagrass","2010","2010","25",,,
+"1028","notatum","#49 Hague Bahiagrass","2010","2010","25",,,
+"1029","notatum","#3 Hague Bahiagrass","2010","2010","25",,,
+"1030","notatum","T7 Hague Bahigrass","2010","2010","25",,,
