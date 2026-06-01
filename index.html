@@ -1,4 +1,633 @@
 <!doctype html>
+-<html lang="en">
++<html lang="es">
+   <head>
+     <meta charset="utf-8" />
+     <meta name="viewport" content="width=device-width, initial-scale=1" />
+     <title>Paspalum Germplasm Bank</title>
+     <style>
+       :root {
+         color-scheme: light;
+         font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+-        color: #f8fbfb;
+-        background: #15282f;
++        color: #090d21;
++        background: #f6f8fb;
+       }
+ 
+       * {
+         box-sizing: border-box;
+       }
+ 
++      html {
++        scroll-behavior: smooth;
++      }
++
+       body {
+         margin: 0;
+         min-height: 100vh;
+         background:
+-          linear-gradient(120deg, rgba(247, 196, 201, 0.34), rgba(28, 54, 67, 0.74)),
++          linear-gradient(90deg, rgba(247, 249, 252, 0.94), rgba(247, 249, 252, 0.86)),
+           url("forest.jpg"),
+-          linear-gradient(135deg, #f6c8c5 0%, #8fa5a8 42%, #223d47 100%);
++          #f6f8fb;
+         background-attachment: fixed;
+         background-position: center;
+         background-size: cover;
+         overflow-x: hidden;
+       }
+ 
+-      body::before,
+-      body::after {
+-        content: "";
+-        position: fixed;
+-        inset: auto -8vw -2vh -8vw;
+-        pointer-events: none;
+-        background-repeat: repeat-x;
+-        transform-origin: bottom center;
+-        z-index: 0;
+-      }
+-
+-      body::before {
+-        height: 43vh;
+-        opacity: 0.42;
+-        background-image:
+-          linear-gradient(88deg, transparent 0 47%, rgba(17, 45, 53, 0.86) 48% 51%, transparent 52% 100%),
+-          linear-gradient(94deg, transparent 0 46%, rgba(32, 62, 68, 0.76) 47% 51%, transparent 52% 100%);
+-        background-size: 92px 100%, 130px 86%;
+-        animation: forest-sway 7s ease-in-out infinite alternate;
+-      }
+-
+-      body::after {
+-        height: 34vh;
+-        opacity: 0.34;
+-        background-image:
+-          linear-gradient(82deg, transparent 0 47%, rgba(9, 35, 45, 0.9) 48% 51%, transparent 52% 100%),
+-          linear-gradient(99deg, transparent 0 46%, rgba(76, 94, 93, 0.62) 47% 51%, transparent 52% 100%);
+-        background-size: 76px 100%, 110px 90%;
+-        animation: forest-sway 5.5s ease-in-out infinite alternate-reverse;
+-      }
+-
+-      @keyframes forest-sway {
+-        from {
+-          transform: skewX(-1deg) translateX(-0.7vw);
+-        }
++      a {
++        color: inherit;
++        text-decoration: none;
++      }
+ 
+-        to {
+-          transform: skewX(1.4deg) translateX(0.7vw);
+-        }
++      .site-shell {
++        width: min(1114px, calc(100% - 2rem));
++        margin: 0 auto;
+       }
+ 
+-      .page {
+-        position: relative;
+-        z-index: 1;
+-        min-height: 100vh;
++      .topbar {
++        display: flex;
++        align-items: center;
++        justify-content: space-between;
++        gap: 1rem;
++        padding: 2.85rem 0 1.5rem;
++      }
++
++      .brand {
++        color: #0c7c5f;
++        font-size: 0.78rem;
++        font-weight: 800;
++        letter-spacing: 0.46em;
++        text-transform: uppercase;
++      }
++
++      .nav-link {
++        color: #34394b;
++        font-size: 0.96rem;
++        font-weight: 700;
++      }
++
++      .hero {
+         display: grid;
+-        place-items: center;
+-        padding: 2rem 1rem;
++        grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
++        gap: clamp(2rem, 5vw, 5rem);
++        align-items: center;
++        min-height: calc(100vh - 7rem);
++        padding: 3rem 0 5.5rem;
+       }
+ 
+-      .panel {
+-        width: min(860px, 100%);
+-        padding: clamp(1.1rem, 3vw, 2rem);
+-        border: 1px solid rgba(255, 255, 255, 0.24);
+-        border-radius: 28px;
+-        background: rgba(19, 38, 45, 0.46);
+-        box-shadow: 0 24px 80px rgba(7, 18, 24, 0.34);
+-        backdrop-filter: blur(14px) saturate(120%);
++      .eyebrow {
++        display: inline-flex;
++        align-items: center;
++        margin: 0 0 1.55rem;
++        border-radius: 999px;
++        padding: 0.55rem 1.1rem;
++        color: #07664e;
++        background: #d5fae9;
++        font-size: 0.84rem;
++        font-weight: 800;
+       }
+ 
+       h1 {
+-        margin: 0 0 1.15rem;
+-        text-align: center;
+-        font-family: Georgia, "Times New Roman", serif;
+-        font-size: clamp(2rem, 5vw, 4.2rem);
+-        font-weight: 500;
+-        letter-spacing: 0.02em;
+-        line-height: 0.98;
+-        text-shadow: 0 8px 34px rgba(0, 0, 0, 0.34);
++        max-width: 610px;
++        margin: 0;
++        color: #070b20;
++        font-size: clamp(2.9rem, 6vw, 4.15rem);
++        font-weight: 850;
++        letter-spacing: -0.07em;
++        line-height: 0.93;
+       }
+ 
+-      .search-box {
++      h1 span {
++        display: block;
++        color: #0b8062;
++      }
++
++      .intro {
+         max-width: 620px;
+-        margin: 0 auto 1rem;
++        margin: 1.6rem 0 2.2rem;
++        color: #4e5668;
++        font-size: 1.06rem;
++        line-height: 1.6;
++      }
++
++      .search-panel,
++      .info-card {
++        border: 1px solid rgba(188, 245, 224, 0.9);
++        border-radius: 24px;
++        background: rgba(255, 255, 255, 0.84);
++        box-shadow: 0 16px 50px rgba(18, 63, 50, 0.1);
++        backdrop-filter: blur(16px) saturate(115%);
++      }
++
++      .search-panel {
++        max-width: 592px;
++        padding: 1.5rem;
+       }
+ 
+       label {
+         display: block;
+-        margin-bottom: 0.55rem;
+-        color: rgba(248, 251, 251, 0.9);
+-        font-size: 0.92rem;
+-        font-weight: 600;
+-        letter-spacing: 0.08em;
+-        text-transform: uppercase;
++        margin-bottom: 0.85rem;
++        color: #283041;
++        font-size: 0.9rem;
++        font-weight: 700;
++      }
++
++      .search-row {
++        display: grid;
++        grid-template-columns: 1fr auto;
++        gap: 0.75rem;
+       }
+ 
+       input[type="search"] {
+         width: 100%;
+-        border: 1px solid rgba(255, 255, 255, 0.68);
+-        border-radius: 999px;
+-        padding: 0.85rem 1.1rem;
+-        color: #20313a;
+-        background: rgba(255, 255, 255, 0.82);
+-        font-size: 0.95rem;
++        min-width: 0;
++        border: 1px solid #dfe6ef;
++        border-radius: 16px;
++        padding: 0.9rem 1rem;
++        color: #1f2937;
++        background: rgba(255, 255, 255, 0.95);
++        font: inherit;
+         outline: none;
+-        box-shadow: 0 16px 38px rgba(0, 0, 0, 0.2);
++        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+       }
+ 
+       input[type="search"]::placeholder {
+-        color: #6c7b82;
++        color: #969daa;
+       }
+ 
+       input[type="search"]:focus {
+-        border-color: #ffd9dd;
+-        box-shadow: 0 0 0 4px rgba(255, 217, 221, 0.26), 0 16px 38px rgba(0, 0, 0, 0.2);
++        border-color: #0d8062;
++        box-shadow: 0 0 0 4px rgba(13, 128, 98, 0.12);
++      }
++
++      .button {
++        display: inline-flex;
++        align-items: center;
++        justify-content: center;
++        border: 0;
++        border-radius: 16px;
++        padding: 0.9rem 1.5rem;
++        color: #fff;
++        background: #0b8062;
++        font: inherit;
++        font-weight: 800;
++        cursor: pointer;
++        transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
++      }
++
++      .button:hover,
++      .button:focus-visible {
++        background: #096d55;
++        box-shadow: 0 14px 24px rgba(11, 128, 98, 0.2);
++        transform: translateY(-1px);
++      }
++
++      .hint {
++        margin: 0.8rem 0 0;
++        color: #6b7280;
++        font-size: 0.86rem;
++        line-height: 1.5;
++      }
++
++      .info-card {
++        padding: clamp(1.45rem, 3vw, 2rem);
++      }
++
++      .info-card h2 {
++        margin: 0 0 1.45rem;
++        color: #101426;
++        font-size: 1.25rem;
++        letter-spacing: -0.02em;
++      }
++
++      .feature-list {
++        display: grid;
++        gap: 1.25rem;
++        margin: 0 0 1.55rem;
++        padding: 0;
++        list-style: none;
++      }
++
++      .feature-list li {
++        border-radius: 16px;
++        padding: 1.25rem;
++        background: rgba(247, 249, 252, 0.88);
++      }
++
++      .feature-list strong {
++        display: block;
++        margin-bottom: 0.45rem;
++        color: #171b2c;
++        font-size: 0.98rem;
++      }
++
++      .feature-list span {
++        color: #4d5565;
++        font-size: 0.9rem;
++        line-height: 1.45;
++      }
++
++      .button-dark {
++        width: 100%;
++        border-radius: 14px;
++        background: #05091c;
++      }
++
++      .button-dark:hover,
++      .button-dark:focus-visible {
++        background: #12182d;
++        box-shadow: 0 14px 24px rgba(5, 9, 28, 0.18);
++      }
++
++      .catalog {
++        padding: 0 0 5rem;
++      }
++
++      .catalog-card {
++        border: 1px solid rgba(188, 245, 224, 0.9);
++        border-radius: 28px;
++        padding: clamp(1rem, 3vw, 1.5rem);
++        background: rgba(255, 255, 255, 0.88);
++        box-shadow: 0 16px 50px rgba(18, 63, 50, 0.1);
++        backdrop-filter: blur(16px) saturate(115%);
++      }
++
++      .catalog-head {
++        display: flex;
++        align-items: end;
++        justify-content: space-between;
++        gap: 1rem;
++        margin-bottom: 1rem;
++      }
++
++      .catalog h2 {
++        margin: 0;
++        color: #070b20;
++        font-size: clamp(1.55rem, 3vw, 2.1rem);
++        letter-spacing: -0.04em;
+       }
+ 
+       .result-count {
+-        margin: 0 0 0.85rem;
+-        text-align: center;
+-        color: rgba(248, 251, 251, 0.78);
+-        font-size: 0.85rem;
++        margin: 0;
++        color: #667085;
++        font-size: 0.9rem;
+       }
+ 
+       .table-wrap {
+         overflow-x: auto;
+         border-radius: 20px;
+         background: rgba(255, 255, 255, 0.78);
+       }
+ 
+       table {
+         width: 100%;
+         min-width: 720px;
+         border-collapse: collapse;
+         color: #21343b;
+         font-size: 0.9rem;
+       }
+ 
+       th,
+       td {
+         border-bottom: 1px solid rgba(51, 75, 82, 0.12);
+         padding: 0.72rem 0.8rem;
+         text-align: left;
+       }
+ 
+       th {
+         color: #244552;
+         background: rgba(235, 241, 239, 0.92);
+         font-size: 0.76rem;
+         letter-spacing: 0.07em;
+         text-transform: uppercase;
+       }
+ 
+       tr:hover {
+-        background: rgba(255, 245, 246, 0.72);
++        background: rgba(236, 253, 245, 0.75);
+       }
+ 
+       tr[hidden] {
+         display: none;
+       }
+ 
+       .muted {
+         color: #6f7e82;
+       }
++
++      @media (max-width: 860px) {
++        .hero {
++          grid-template-columns: 1fr;
++          min-height: auto;
++          padding-top: 2rem;
++        }
++
++        .info-card {
++          max-width: 592px;
++        }
++      }
++
++      @media (max-width: 560px) {
++        .site-shell {
++          width: min(100% - 1.25rem, 1114px);
++        }
++
++        .topbar {
++          padding-top: 1.5rem;
++        }
++
++        .brand {
++          letter-spacing: 0.28em;
++        }
++
++        .search-row,
++        .catalog-head {
++          grid-template-columns: 1fr;
++          display: grid;
++        }
++
++        .button {
++          width: 100%;
++        }
++      }
+     </style>
+   </head>
+   <body>
+-    <main class="page">
+-      <section class="panel" aria-labelledby="site-title">
+-        <h1 id="site-title">Paspalum Germplasm Bank</h1>
+-
+-        <div class="search-box">
+-          <label for="search">Search our Paspalum accessions</label>
+-          <input
+-            id="search"
+-            type="search"
+-            placeholder="Search by species, box, date, or place..."
+-            autocomplete="off"
+-          />
++    <header class="site-shell topbar">
++      <a class="brand" href="#top" aria-label="Germoplasm Bank inicio">Germoplasm Bank</a>
++      <a class="nav-link" href="#catalogo">Ver catálogo</a>
++    </header>
++
++    <main id="top">
++      <section class="site-shell hero" aria-labelledby="site-title">
++        <div>
++          <p class="eyebrow">Catálogo público de accesiones</p>
++          <h1 id="site-title">Consultá el banco de germoplasma de <span>Paspalum</span></h1>
++          <p class="intro">
++            Buscá accesiones por código, especie, collector o procedencia. El frontend consulta directamente las tablas y vistas publicadas por Supabase.
++          </p>
++
++          <form class="search-panel" action="#catalogo">
++            <label for="search">Buscar accesiones</label>
++            <div class="search-row">
++              <input
++                id="search"
++                type="search"
++                placeholder="Ej: PAS-001, Paspalum, collector, Argentina, Corrientes"
++                autocomplete="off"
++              />
++              <button class="button" type="submit">Buscar</button>
++            </div>
++            <p class="hint">La búsqueda consulta código de accesión, especie, collector, país y provincia.</p>
++          </form>
+         </div>
+ 
+-        <p class="result-count" id="result-count">3 visible accessions</p>
+-
+-        <div class="table-wrap">
+-          <table>
+-            <thead>
+-              <tr>
+-                <th>Internal ID</th>
+-                <th>Accession</th>
+-                <th>Species</th>
+-                <th>Box</th>
+-                <th>Collection date</th>
+-                <th>Conservation date</th>
+-                <th>Place</th>
+-              </tr>
+-            </thead>
+-            <tbody id="accession-rows">
+-              <tr>
+-                <td>1</td>
+-                <td class="muted">Pending</td>
+-                <td><em>Paspalum notatum</em></td>
+-                <td>23</td>
+-                <td>2001-01-01</td>
+-                <td>2004-02-02</td>
+-                <td>Esquina, Ctes</td>
+-              </tr>
+-              <tr>
+-                <td>2</td>
+-                <td class="muted">Pending</td>
+-                <td><em>Paspalum notatum</em></td>
+-                <td>24</td>
+-                <td>1994-08-05</td>
+-                <td>2003-01-02</td>
+-                <td>Brasilia</td>
+-              </tr>
+-              <tr>
+-                <td>3</td>
+-                <td class="muted">Pending</td>
+-                <td><em>Paspalum notatum</em></td>
+-                <td>25</td>
+-                <td>2002-02-01</td>
+-                <td>2014-02-09</td>
+-                <td>Bolivia</td>
+-              </tr>
+-            </tbody>
+-          </table>
++        <aside class="info-card" aria-labelledby="info-title">
++          <h2 id="info-title">Qué podés consultar</h2>
++          <ul class="feature-list">
++            <li>
++              <strong>Catálogo filtrable</strong>
++              <span>Filtrá por especie, país, provincia y disponibilidad.</span>
++            </li>
++            <li>
++              <strong>Disponibilidad</strong>
++              <span>Revisá cantidad de semillas y estado disponible/no disponible.</span>
++            </li>
++            <li>
++              <strong>Detalle completo</strong>
++              <span>Accedé a coleta, localidad, coordenadas y observaciones.</span>
++            </li>
++          </ul>
++          <a class="button button-dark" href="#catalogo">Abrir catálogo</a>
++        </aside>
++      </section>
++
++      <section class="site-shell catalog" id="catalogo" aria-labelledby="catalog-title">
++        <div class="catalog-card">
++          <div class="catalog-head">
++            <h2 id="catalog-title">Catálogo de accesiones</h2>
++            <p class="result-count" id="result-count">3 accesiones visibles</p>
++          </div>
++
++          <div class="table-wrap">
++            <table>
++              <thead>
++                <tr>
++                  <th>Internal ID</th>
++                  <th>Accession</th>
++                  <th>Species</th>
++                  <th>Box</th>
++                  <th>Collection date</th>
++                  <th>Conservation date</th>
++                  <th>Place</th>
++                </tr>
++              </thead>
++              <tbody id="accession-rows">
++                <tr>
++                  <td>1</td>
++                  <td class="muted">Pending</td>
++                  <td><em>Paspalum notatum</em></td>
++                  <td>23</td>
++                  <td>2001-01-01</td>
++                  <td>2004-02-02</td>
++                  <td>Esquina, Ctes</td>
++                </tr>
++                <tr>
++                  <td>2</td>
++                  <td class="muted">Pending</td>
++                  <td><em>Paspalum notatum</em></td>
++                  <td>24</td>
++                  <td>1994-08-05</td>
++                  <td>2003-01-02</td>
++                  <td>Brasilia</td>
++                </tr>
++                <tr>
++                  <td>3</td>
++                  <td class="muted">Pending</td>
++                  <td><em>Paspalum notatum</em></td>
++                  <td>25</td>
++                  <td>2002-02-01</td>
++                  <td>2014-02-09</td>
++                  <td>Bolivia</td>
++                </tr>
++              </tbody>
++            </table>
++          </div>
+         </div>
+       </section>
+     </main>
+ 
+     <script>
+       const searchInput = document.querySelector("#search");
+       const rows = Array.from(document.querySelectorAll("#accession-rows tr"));
+       const resultCount = document.querySelector("#result-count");
+ 
+       function updateVisibleRows() {
+         const query = searchInput.value.trim().toLowerCase();
+         let visibleRows = 0;
+ 
+         rows.forEach((row) => {
+           const rowText = row.textContent.toLowerCase();
+           const isVisible = rowText.includes(query);
+           row.hidden = !isVisible;
+ 
+           if (isVisible) {
+             visibleRows += 1;
+           }
+         });
+ 
+-        resultCount.textContent = `${visibleRows} visible accessions`;
++        resultCount.textContent = `${visibleRows} ${visibleRows === 1 ? "accesión visible" : "accesiones visibles"}`;
+       }
+ 
+       searchInput.addEventListener("input", updateVisibleRows);
+     </script>
+   </body>
+ </html>
+<!doctype html>
 <html lang="es">
   <head>
     <meta charset="utf-8" />
@@ -282,7 +911,7 @@
 
       table {
         width: 100%;
-        min-width: 720px;
+        min-width: 900px;
         border-collapse: collapse;
         color: #21343b;
         font-size: 0.78rem;
@@ -293,6 +922,7 @@
         border-bottom: 1px solid rgba(51, 75, 82, 0.12);
         padding: 0.55rem 0.65rem;
         text-align: left;
+        vertical-align: top;
       }
 
       th {
@@ -313,6 +943,16 @@
 
       .muted {
         color: #6f7e82;
+      }
+
+      .nowrap {
+        white-space: nowrap;
+      }
+
+      .status-row td {
+        padding: 1rem;
+        color: #667085;
+        text-align: center;
       }
 
       @media (max-width: 860px) {
@@ -365,7 +1005,7 @@
           <p class="eyebrow">Catálogo público de accesiones</p>
           <h1 id="site-title">Consultá el banco de germoplasma de <span>Paspalum</span></h1>
           <p class="intro">
-            Buscá accesiones por código, especie, collector o procedencia. El frontend consulta directamente las tablas y vistas publicadas por Supabase.
+            Buscá accesiones por código, especie, identificación, origen o ploidía. El catálogo se carga desde el archivo CSV publicado en <strong>data/original</strong>.
           </p>
 
           <form class="search-panel" action="#catalogo">
@@ -374,12 +1014,12 @@
               <input
                 id="search"
                 type="search"
-                placeholder="Ej: PAS-001, Paspalum, collector, Argentina, Corrientes"
+                placeholder="Ej: notatum, 4086, Corrientes, 40, Virasoro"
                 autocomplete="off"
               />
               <button class="button" type="submit">Buscar</button>
             </div>
-            <p class="hint">La búsqueda consulta código de accesión, especie, collector, país y provincia.</p>
+            <p class="hint">La búsqueda consulta todas las columnas del CSV: especie, identificación, fechas, peso, semillas, origen y ploidía.</p>
           </form>
         </div>
 
@@ -387,16 +1027,16 @@
           <h2 id="info-title">Qué podés consultar</h2>
           <ul class="feature-list">
             <li>
-              <strong>Catálogo filtrable</strong>
-              <span>Filtrá por especie, país, provincia y disponibilidad.</span>
+              <strong>Datos originales</strong>
+              <span>Se muestran los valores del CSV sin obligarte a normalizar todo a mano.</span>
             </li>
             <li>
-              <strong>Disponibilidad</strong>
-              <span>Revisá cantidad de semillas y estado disponible/no disponible.</span>
+              <strong>Búsqueda flexible</strong>
+              <span>Podés buscar por especie, identificación, origen, fechas, semillas o ploidía.</span>
             </li>
             <li>
-              <strong>Detalle completo</strong>
-              <span>Accedé a coleta, localidad, coordenadas y observaciones.</span>
+              <strong>Ploidía</strong>
+              <span>La columna <em>n</em> del archivo se muestra como ploidía.</span>
             </li>
           </ul>
           <a class="button button-dark" href="#catalogo">Abrir catálogo</a>
@@ -407,49 +1047,27 @@
         <div class="catalog-card">
           <div class="catalog-head">
             <h2 id="catalog-title">Catálogo de accesiones</h2>
-            <p class="result-count" id="result-count">3 accesiones visibles</p>
+            <p class="result-count" id="result-count">Cargando accesiones...</p>
           </div>
 
           <div class="table-wrap">
             <table>
               <thead>
                 <tr>
-                  <th>Internal ID</th>
-                  <th>Accession</th>
-                  <th>Species</th>
-                  <th>Box</th>
-                  <th>Collection date</th>
-                  <th>Conservation date</th>
-                  <th>Place</th>
+                  <th>ID</th>
+                  <th>Especie</th>
+                  <th>Identificación</th>
+                  <th>Cosecha</th>
+                  <th>Conservación</th>
+                  <th>Peso (g)</th>
+                  <th>Semillas</th>
+                  <th>Origen</th>
+                  <th>Ploidía</th>
                 </tr>
               </thead>
               <tbody id="accession-rows">
-                <tr>
-                  <td>1</td>
-                  <td class="muted">Pending</td>
-                  <td><em>Paspalum notatum</em></td>
-                  <td>23</td>
-                  <td>2001-01-01</td>
-                  <td>2004-02-02</td>
-                  <td>Esquina, Ctes</td>
-                </tr>
-                <tr>
-                  <td>2</td>
-                  <td class="muted">Pending</td>
-                  <td><em>Paspalum notatum</em></td>
-                  <td>24</td>
-                  <td>1994-08-05</td>
-                  <td>2003-01-02</td>
-                  <td>Brasilia</td>
-                </tr>
-                <tr>
-                  <td>3</td>
-                  <td class="muted">Pending</td>
-                  <td><em>Paspalum notatum</em></td>
-                  <td>25</td>
-                  <td>2002-02-01</td>
-                  <td>2014-02-09</td>
-                  <td>Bolivia</td>
+                <tr class="status-row">
+                  <td colspan="9">Cargando datos desde data/original...</td>
                 </tr>
               </tbody>
             </table>
@@ -459,33 +1077,196 @@
     </main>
 
     <script>
+      const DATA_URL = "data/original";
       const searchForm = document.querySelector(".search-panel");
       const searchInput = document.querySelector("#search");
-      const rows = Array.from(document.querySelectorAll("#accession-rows tr"));
+      const tableBody = document.querySelector("#accession-rows");
       const resultCount = document.querySelector("#result-count");
+      let accessions = [];
 
-      function updateVisibleRows() {
-        const query = searchInput.value.trim().toLowerCase();
-        let visibleRows = 0;
+      const columns = [
+        { key: "id", fallback: "", className: "nowrap" },
+        { key: "species", fallback: "", formatter: formatSpecies },
+        { key: "identification", fallback: "" },
+        { key: "harvest_date", fallback: "", className: "nowrap" },
+        { key: "preservation_date", fallback: "", className: "nowrap" },
+        { key: "weight_g", fallback: "", className: "nowrap" },
+        { key: "number_of_seeds", fallback: "", className: "nowrap" },
+        { key: "origin", fallback: "" },
+        { key: "n", fallback: "", className: "nowrap" },
+      ];
 
-        rows.forEach((row) => {
-          const rowText = row.textContent.toLowerCase();
-          const isVisible = rowText.includes(query);
-          row.hidden = !isVisible;
+      function parseCSV(csvText) {
+        const rows = [];
+        let row = [];
+        let value = "";
+        let insideQuotes = false;
 
-          if (isVisible) {
-            visibleRows += 1;
+        for (let index = 0; index < csvText.length; index += 1) {
+          const char = csvText[index];
+          const nextChar = csvText[index + 1];
+
+          if (char === '"' && insideQuotes && nextChar === '"') {
+            value += '"';
+            index += 1;
+          } else if (char === '"') {
+            insideQuotes = !insideQuotes;
+          } else if (char === "," && !insideQuotes) {
+            row.push(value);
+            value = "";
+          } else if ((char === "\n" || char === "\r") && !insideQuotes) {
+            if (char === "\r" && nextChar === "\n") {
+              index += 1;
+            }
+
+            row.push(value);
+
+            if (row.some((cell) => cell.trim() !== "")) {
+              rows.push(row);
+            }
+
+            row = [];
+            value = "";
+          } else {
+            value += char;
           }
-        });
+        }
 
+        if (value || row.length > 0) {
+          row.push(value);
+        }
+
+        if (row.some((cell) => cell.trim() !== "")) {
+          rows.push(row);
+        }
+
+        return rows;
+      }
+
+      function normalizeKey(key) {
+        return key.trim().replace(/^\ufeff/, "").replace(/^"|"$/g, "").toLowerCase();
+      }
+
+      function normalizeCell(value) {
+        return String(value ?? "")
+          .replace(/[“”]/g, '"')
+          .replace(/[‘’]/g, "'")
+          .replace(/\s+/g, " ")
+          .trim();
+      }
+
+      function rowsToObjects(rows) {
+        const [headerRow, ...dataRows] = rows;
+
+        if (!headerRow) {
+          return [];
+        }
+
+        const headers = headerRow.map(normalizeKey);
+
+        return dataRows.map((dataRow) => {
+          const item = {};
+
+          headers.forEach((header, index) => {
+            item[header] = normalizeCell(dataRow[index]);
+          });
+
+          return item;
+        });
+      }
+
+      function formatSpecies(value) {
+        const species = normalizeCell(value);
+
+        if (!species) {
+          return "";
+        }
+
+        if (/^paspalum\b/i.test(species)) {
+          return species;
+        }
+
+        return `Paspalum ${species}`;
+      }
+
+      function escapeHTML(value) {
+        return String(value ?? "").replace(/[&<>"]/g, (char) => {
+          const entities = {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            '"': "&quot;",
+          };
+
+          return entities[char];
+        });
+      }
+
+      function getSearchText(accession) {
+        return Object.values(accession).join(" ").toLowerCase();
+      }
+
+      function renderRows(rows) {
+        if (rows.length === 0) {
+          tableBody.innerHTML = '<tr class="status-row"><td colspan="9">No hay accesiones para mostrar.</td></tr>';
+          return;
+        }
+
+        tableBody.innerHTML = rows
+          .map((accession) => {
+            const cells = columns
+              .map((column) => {
+                const rawValue = accession[column.key] || column.fallback;
+                const displayValue = column.formatter ? column.formatter(rawValue) : rawValue;
+                const classAttribute = column.className ? ` class="${column.className}"` : "";
+                return `<td${classAttribute}>${escapeHTML(displayValue) || '<span class="muted">—</span>'}</td>`;
+              })
+              .join("");
+
+            return `<tr>${cells}</tr>`;
+          })
+          .join("");
+      }
+
+      function updateResultCount(visibleRows) {
         resultCount.textContent = `${visibleRows} ${visibleRows === 1 ? "accesión visible" : "accesiones visibles"}`;
       }
 
-      searchForm.addEventListener("submit", () => {
+      function updateVisibleRows() {
+        const query = searchInput.value.trim().toLowerCase();
+        const visibleAccessions = query
+          ? accessions.filter((accession) => getSearchText(accession).includes(query))
+          : accessions;
+
+        renderRows(visibleAccessions);
+        updateResultCount(visibleAccessions.length);
+      }
+
+      async function loadAccessions() {
+        try {
+          const response = await fetch(`${DATA_URL}?v=${Date.now()}`);
+
+          if (!response.ok) {
+            throw new Error(`No se pudo cargar ${DATA_URL}: ${response.status}`);
+          }
+
+          const csvText = await response.text();
+          accessions = rowsToObjects(parseCSV(csvText));
+          updateVisibleRows();
+        } catch (error) {
+          console.error(error);
+          resultCount.textContent = "No se pudieron cargar los datos";
+          tableBody.innerHTML = `<tr class="status-row"><td colspan="9">No se pudo leer el CSV en ${DATA_URL}. Revisá que el archivo exista y recargá la página.</td></tr>`;
+        }
+      }
+
+      searchForm.addEventListener("submit", (event) => {
+        event.preventDefault();
         updateVisibleRows();
       });
 
       searchInput.addEventListener("input", updateVisibleRows);
+      loadAccessions();
     </script>
   </body>
 </html>
